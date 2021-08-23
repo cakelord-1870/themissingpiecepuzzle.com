@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://themissingpiecepuzzle.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://themissingpiecepuzzle.com/collections/63-piece-puzzle-16-x-20-in.atom"/>
+  <title>The Missing Piece Puzzle Company</title>
+  <updated>2020-03-29T16:36:54-04:00</updated>
+  <author>
+    <name>The Missing Piece Puzzle Company</name>
+  </author>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+    <published>2020-03-29T16:36:54-04:00</published>
+    <updated>2020-03-29T16:36:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/gift-card"/>
+    <title>Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/e38bd83af578077b65a31424bd24d085.png?v=1624482393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            25.00 - 125.00
+            <a href="https://themissingpiecepuzzle.com/products/gift-card">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them? Give them the gift of choice with a The Missing Piece Puzzle Company gift card.</p>
+<p>Gift cards are delivered via email and contain instructions to redeem them at checkout. Our gift cards have no additional processing fees.</p>
+<p>Gift cards will expire one year from purchase date, but who can wait that long to have a custom puzzle made?  I can't think of anyone, either!</p>
+<p>Let's get your puzzle on....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$25.00 USD</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Gift Card $25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$50.00 USD</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>Gift Card $50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$75.00 USD</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>Gift Card $100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$100 USD</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Gift Card 75</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>125.00</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>Gift Card $125</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1990402801750</id>
+    <published>2019-03-11T13:11:38-04:00</published>
+    <updated>2019-03-11T13:11:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/white-puzzle-pieces"/>
+    <title>White Puzzle Pieces in a variety of piece counts.  Approximately 16x20 inches when complete.</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/80_white_box_cut_fx_44962d43-1e41-4af4-b313-1c1de42f59ef.JPG?v=1552324950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99 - 38.49
+            <a href="https://themissingpiecepuzzle.com/products/white-puzzle-pieces">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our beautiful thick white puzzle pieces are plain white and quite the trend.  This all white puzzle will have an approximate finished size of 16 x 20 inches when complete which is the perfect size for framing.  These extra-large blank white puzzle pieces allow your event guests to have some fun while signing your guest book and will look amazing displayed.  You'll never have to throw your guest book in your closet again! </p>
+<p>Made in America with high-quality materials, our puzzle pieces are designed to last, are thick and can easily be signed.  Choose from the following piece counts (sizes are all approximate):  </p>
+<ul>
+<li>15 Pieces: The average piece size is 5 x 4 inches.</li>
+<li>30 Pieces: The average piece size is 3.5 x 3 inches.</li>
+<li>63 Pieces: The average piece size is 2.5 x 2.25 inches. </li>
+<li>80 Pieces: The average piece size is 2 x 2 inches. </li>
+<li>104 Piece: The average piece size is 2 x 1.5 inches. </li>
+</ul>
+<p>OPTIONS:</p>
+<p>Hand-Numbering:  We offer hand-numbering on the back of the puzzle pieces as an option.  We will number the puzzle in pencil which will help with the assembly and save you tons of time.  We automatically hand number our 63, 80, and 104 pieces as they are very challenging to assemble and offer only this option for purchase. </p>
+<p>We also offer larger white puzzles in either 150 pieces or 200 pieces for large guest lists <a href="https://themissingpiecepuzzlecompany.com/products/personalized-custom-photo-wedding-puzzle-with-150-pieces-20x30-inches" title="LARGE WHITE PUZZLES">HERE</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>false</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1990402801750</id>
+      <title>15 Pieces / NO / NO</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>15W-</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1990402801750</id>
+      <title>15 Pieces / NO / YES</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>15W-RUSH</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1990402801750</id>
+      <title>15 Pieces / YES / NO</title>
+      <s:price currency="USD">33.49</s:price>
+      <s:sku>15W-N</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1990402801750</id>
+      <title>15 Pieces / YES / YES</title>
+      <s:price currency="USD">38.49</s:price>
+      <s:sku>15W-N-RUSH</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1990402801750</id>
+      <title>30 Pieces / NO / NO</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>30W</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1990402801750</id>
+      <title>30 Pieces / NO / YES</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>30W-RUSH</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1990402801750</id>
+      <title>30 Pieces / YES / NO</title>
+      <s:price currency="USD">33.49</s:price>
+      <s:sku>30W-N</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1990402801750</id>
+      <title>30 Pieces / YES / YES</title>
+      <s:price currency="USD">38.49</s:price>
+      <s:sku>30W-N-RUSH</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1990402801750</id>
+      <title>63 Pieces / YES / NO</title>
+      <s:price currency="USD">33.49</s:price>
+      <s:sku>63N</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1990402801750</id>
+      <title>63 Pieces / YES / YES</title>
+      <s:price currency="USD">38.49</s:price>
+      <s:sku>63N-RUSH</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1990402801750</id>
+      <title>80 Pieces / YES / NO</title>
+      <s:price currency="USD">33.49</s:price>
+      <s:sku>80N</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1990402801750</id>
+      <title>80 Pieces / YES / YES</title>
+      <s:price currency="USD">38.49</s:price>
+      <s:sku>80N-RUSH</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1990402801750</id>
+      <title>104 Pieces / YES / NO</title>
+      <s:price currency="USD">33.49</s:price>
+      <s:sku>104N</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1990402801750</id>
+      <title>104 Pieces / YES / YES</title>
+      <s:price currency="USD">38.49</s:price>
+      <s:sku>104N-RUSH</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1233244099</id>
+    <published>2015-06-25T17:02:00-04:00</published>
+    <updated>2015-06-25T17:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/photo-puzzle-with-63-extra-large-piecesis-the-perfect-toddler-puzzle"/>
+    <title>Photo Puzzle with 63 Extra Large Pieces - The perfect Guest Book Puzzle</title>
+    <s:type>Custom Puzzle</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/marry_me_cut_blue_boat_80.jpg?v=1528386677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Custom Puzzle<br>
+        <strong>Price: </strong>
+            44.99 - 53.49
+            <a href="https://themissingpiecepuzzle.com/products/photo-puzzle-with-63-extra-large-piecesis-the-perfect-toddler-puzzle">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>The perfect Guest Book or Children's puzzle. This 63 piece puzzle is perfect for young children or adults who want to show detail in their pictures or are just learning how to piece it all together.  Generous sized pieces make it easy to work with, while providing the detail needed to preserve cherished memories.  Each piece, on average, measures approximately 2.25x 2.25 inches (on average).  Finished size will be approximately 16x20 inches.  PHOTO IS OF A 63 PIECE PUZZLE.</div>
+<div> </div>
+<div>This puzzle has also been used in Weddings as a Wedding Guest Book to complete the pieces of the puzzle, where guests sign each generous sized piece to finish off the perfect day!  A wonderful way to remember your Wedding Day.  Makes the perfect unique gift idea for the hard to buy for person. </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>true</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233244099</id>
+      <title>No / No</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>16x20x63C-</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233244099</id>
+      <title>No / Yes</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>16x20x63C N</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233244099</id>
+      <title>Yes / No</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>16x20x63N</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233244099</id>
+      <title>Yes / Yes</title>
+      <s:price currency="USD">53.49</s:price>
+      <s:sku>16x20x63C-NWB</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1233241219</id>
+    <published>2015-06-25T17:02:00-04:00</published>
+    <updated>2015-06-25T17:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/xl-puzzle-pieces-16x20-inch-puzzle"/>
+    <title>Extra Large Puzzle Pieces.  Custom puzzle with 63 Pieces</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/extra-large-puzzle-pieces-16x20-inch-puzzle-with-63-pieces-2.jpg?v=1620745423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.99 - 49.99
+            <a href="https://themissingpiecepuzzle.com/products/xl-puzzle-pieces-16x20-inch-puzzle">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The extra-large custom puzzle will make the perfect gift for a Wedding Guest Book or offer a fun afternoon with your children.   Featuring very large chunky puzzle pieces, this custom puzzle is very popular for our puzzle people.  Providing a large puzzle piece that is easy to manipulate and grasp, each piece shows great detail of the image that will become your completed puzzle.  It's so easy to do and arrives at your door within days.  Simply choose a favorite photo memory and turn it into a high-quality jigsaw puzzle.</p>
+<p>This amazing custom puzzle will have an approximate finished size of 16x20 inches and will feature extra-large pieces that average 2.25 x 2.25 inches each piece, large enough for even small hands to easily grasp and hold.  This puzzle is also widely used with Alzheimer patients and in care facilities because of the large and easily grasped puzzle pieces.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233241219</id>
+      <title>No</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>16x20x63C</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233241219</id>
+      <title>Yes</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>16x20x63-RUSH</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+</feed>

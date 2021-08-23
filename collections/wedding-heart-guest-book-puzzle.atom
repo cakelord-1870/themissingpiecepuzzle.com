@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://themissingpiecepuzzle.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://themissingpiecepuzzle.com/collections/wedding-heart-guest-book-puzzle.atom"/>
+  <title>The Missing Piece Puzzle Company</title>
+  <updated>2017-10-30T15:48:58-04:00</updated>
+  <author>
+    <name>The Missing Piece Puzzle Company</name>
+  </author>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10221601166</id>
+    <published>2017-10-30T15:48:58-04:00</published>
+    <updated>2017-10-30T15:48:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/copy-of-giant-heart-shaped-guest-book-puzzle-with-white-puzzle-pieces"/>
+    <title>Giant Heart Shaped Guest Book Puzzle with 108 White Puzzle Pieces</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/giant-heart-shaped-guest-book-puzzle-with-108-white-puzzle-pieces-1.jpg?v=1526664271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.99 - 79.99
+            <a href="https://themissingpiecepuzzle.com/products/copy-of-giant-heart-shaped-guest-book-puzzle-with-white-puzzle-pieces">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<strong>Very Large Heart Shaped White Puzzle</strong> that makes a <strong>Unique Wedding Guest Book</strong> alternative. Our Extra Large Piece White Blank Heart Shaped Puzzle features 108 Extra Large pieces and is very romantic while making a great conversation starter for your guests and encourages fun!  </div>
+<div> </div>
+<p>This puzzle is very elegant and has a finished size of approximately 30 x 24 inches.  This is our exclusive design and is available in two separate piece counts.  The Heart Puzzle features very large puzzle pieces for your guests to leave wonderful sentiments to the bride and groom.</p>
+<div></div>
+<div></div>
+<div><strong>OPTIONS:</strong></div>
+<div>  </div>
+<div><strong>HAND NUMBERING:</strong></div>
+<p>We can hand-number the back of the puzzle as an option.  Numbering saves a ton of time on assembly, as these can be very challenging to assemble.  We highly recommend that you choose this feature as the puzzle pieces are similarly shaped and sized but are not exact.  </p>
+<div></div>
+<div><strong>RUSH OPTION:</strong></div>
+<p>We can move your order to the front of the queue with this option.  This may save you precious time when you need it in a hurry.</p>
+<div></div>
+<p><strong>﻿Some of our options have been discontinued during the pandemic.  We fully intend to add the options back upon the end of the pandemic.</strong><br></p>
+<div><strong></strong></div>
+<div><strong></strong></div>
+<h3>For Tips and Tricks on Assembly, check out our <a href="https://themissingpiecepuzzle.com/blogs/lets-talk-about-puzzles/91004099-template-for-our-76-and-108-piece-heart-puzzle-with-hints-and-tips-for-assembly" title="Tips on Assembling a Heart Puzzle" target="_blank"><strong>blog post</strong></a> with photos of our template.</h3>
+<div>  </div>
+<div></div>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blank puzzle heart</s:tag>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10221601166</id>
+      <title>76 Pieces / No / No</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>Heart-108</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10221601166</id>
+      <title>76 Pieces / No / Yes</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>Heart-108-RUSH</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10221601166</id>
+      <title>76 Pieces / Yes / No</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>Heart-108-N</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10221601166</id>
+      <title>76 Pieces / Yes / Yes</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>Heart-108-N-RUSH</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10221601166</id>
+      <title>108 Pieces / No / No</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>Heart-108</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10221601166</id>
+      <title>108 Pieces / No / Yes</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>Heart-108-RUSH</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10221601166</id>
+      <title>108 Pieces / Yes / No</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>Heart-108-N</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10221601166</id>
+      <title>108 Pieces / Yes / Yes</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>Heart-108-N-RUSH</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10221624590</id>
+    <published>2015-06-25T17:02:00-04:00</published>
+    <updated>2015-06-25T17:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/copy-of-giant-heart-shaped-guest-bookpuzzle-with-white-puzzle-pieces"/>
+    <title>Very Large Heart Shaped Guest Book Puzzle with 76 XL White Puzzle Pieces</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/very-large-heart-shaped-guest-book-puzzle-with-76-xl-white-puzzle-pieces-1.jpg?v=1527027707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.99 - 79.99
+            <a href="https://themissingpiecepuzzle.com/products/copy-of-giant-heart-shaped-guest-bookpuzzle-with-white-puzzle-pieces">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<strong>Very Large Heart-Shaped White Puzzle</strong> that makes a <strong>Unique Wedding Guest Book</strong> alternative. Our Extra Large Piece White Blank Heart Shaped Puzzle is very romantic and makes a great conversation starter for your guests and encourages fun!   This puzzle features 76 Pieces, each piece is generously sized for wonderful sentiments from your guests. *Photo is of our 108 Piece Heart Puzzle, not our 76 Piece Puzzle.  We hand-number the back of the puzzle for ease of assembly.  The template can be found on our blog.</div>
+<div> </div>
+<div>This puzzle is very generously sized at approximately 30 x 24 inches when complete.  Be the talk of the town with this unique white puzzle guestbook that won't sit in your closet!  Frame it for a lasting memory.</div>
+<div> </div>
+<div></div>
+<div><strong>OPTIONS:</strong></div>
+<div></div>
+<p><strong>Hand Numbering</strong>:  We offer hand-numbering on the back of the puzzle as an option.  This is HIGHLY RECOMMENDED as these puzzles are very challenging to assemble.  Having your puzzle numbered will take the stress away when it's time for assembly, as well as reducing the time for assembly.  Check out our blog for tips and tricks on assembly.</p>
+<div></div>
+<div></div>
+<p><strong>RUSH:  </strong>﻿Choosing the RUSH option will move your order up in our queue and will take priority in our shop.  This may significantly decrease the time that it takes to make and mail your puzzle to you!</p>
+<div></div>
+<div></div>
+<div></div>
+<div>
+<p><strong>WRITING ON THE PUZZLE</strong>:  </p>
+<p>We recommend either a medium-point ballpoint pen or Sharpie type markers (not included) to write on this puzzle.  Multi-colors look amazing.  Please do not use anything with a fine tip, as the puzzle is porous and thin-tipped writing instruments may poke through the puzzle.  </p>
+<div></div>
+<div>Check out our <a title="Tips and Tricks to assemble our Heart Puzzle" href="https://themissingpiecepuzzle.com/blogs/lets-talk-about-puzzles/91004099-template-for-our-76-and-108-piece-heart-puzzle-with-hints-and-tips-for-assembly" target="_blank"><strong>Tips and Tricks</strong></a> for assembling this beautiful puzzle before ordering.</div>
+</div>
+<div></div>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blank puzzle heart</s:tag>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>true</s:tag>
+    <s:tag>wedding totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10221624590</id>
+      <title>No / No</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>Heart-76</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10221624590</id>
+      <title>No / Yes</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>Heart-76-RUSH</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10221624590</id>
+      <title>Yes / No</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>Heart-76-N</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10221624590</id>
+      <title>Yes / Yes</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>Heart-76-N-RUSH</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+</feed>

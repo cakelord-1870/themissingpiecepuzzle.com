@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://themissingpiecepuzzle.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://themissingpiecepuzzle.com/collections/100-piece-puzzle-with-large-pieces.atom"/>
+  <title>The Missing Piece Puzzle Company</title>
+  <updated>2020-03-29T16:36:54-04:00</updated>
+  <author>
+    <name>The Missing Piece Puzzle Company</name>
+  </author>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+    <published>2020-03-29T16:36:54-04:00</published>
+    <updated>2020-03-29T16:36:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/gift-card"/>
+    <title>Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/e38bd83af578077b65a31424bd24d085.png?v=1624482393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            25.00 - 125.00
+            <a href="https://themissingpiecepuzzle.com/products/gift-card">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them? Give them the gift of choice with a The Missing Piece Puzzle Company gift card.</p>
+<p>Gift cards are delivered via email and contain instructions to redeem them at checkout. Our gift cards have no additional processing fees.</p>
+<p>Gift cards will expire one year from purchase date, but who can wait that long to have a custom puzzle made?  I can't think of anyone, either!</p>
+<p>Let's get your puzzle on....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$25.00 USD</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Gift Card $25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$50.00 USD</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>Gift Card $50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$75.00 USD</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>Gift Card $100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$100 USD</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Gift Card 75</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>125.00</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>Gift Card $125</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/174027898894</id>
+    <published>2017-10-30T15:49:03-04:00</published>
+    <updated>2017-10-30T15:49:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/unique-wedding-guest-book-puzzle-large-approximately-16x20-inches"/>
+    <title>Unique Wedding Guest Book Puzzle Large - 104 Puzzle Pieces</title>
+    <s:type>Wedding Guest Book</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/marry_me_cut_blue_boat_80_9c3231d9-dbd8-42d9-85a3-2a7950ebe49b.jpg?v=1527027589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Wedding Guest Book<br>
+        <strong>Price: </strong>
+            44.99 - 53.49
+            <a href="https://themissingpiecepuzzle.com/products/unique-wedding-guest-book-puzzle-large-approximately-16x20-inches">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Unique Wedding Guest Book Idea. Custom Photo Jigsaw Puzzle Guest Book</strong> from Your Engagement Photo is a Beautiful Wedding Guest Book Puzzle with over 100 Large Puzzle Pieces.</span></p>
+<p>Our <strong>Very Large Custom Photo Jigsaw Puzzle</strong> is a beautiful puzzle that features <strong>large puzzle pieces</strong>.  Measuring approximately 16" x 20" (inches) when assembled, this puzzle is a favorite among our customers for it's extra large puzzle pieces and professional look, as we print on a premium matte paper to create your beautiful puzzle...</p>
+<p class="p1"><strong>Perfect for Wedding Family Portraits</strong>, the large pieces show great detail in photographs and look amazing framed.   </p>
+<p> </p>
+<p>Our 104 piece features pieces that average 1.5 x 2 inches, perfect for even those long signatures.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>upload photo 16x20</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/174027898894</id>
+      <title>No / No</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>16x20xC104</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/174027898894</id>
+      <title>Yes / No</title>
+      <s:price currency="USD">48.49</s:price>
+      <s:sku>16x20xC104N</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/174027898894</id>
+      <title>No / Yes</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>16x20xC104R</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/174027898894</id>
+      <title>Yes / Yes</title>
+      <s:price currency="USD">53.49</s:price>
+      <s:sku>16x20xC104NR</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/5220773955</id>
+    <published>2017-05-24T13:18:56-04:00</published>
+    <updated>2017-05-24T13:18:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/custom-photo-puzzle-guest-book"/>
+    <title>Custom Photo Jigsaw Puzzle With 104 Pieces - A Fun Family Portrait Puzzle</title>
+    <s:type>Custom Puzzle</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/guest-book-104-piece-custom-photo-jigsaw-puzzle-perfect-for-a-unique-family-portrait-puzzle-1.jpg?v=1624484790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Custom Puzzle<br>
+        <strong>Price: </strong>
+            44.99 - 54.99
+            <a href="https://themissingpiecepuzzle.com/products/custom-photo-puzzle-guest-book">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Your photo on our <strong>Very Large Custom Photo Jigsaw Puzzle.   </strong>  This beautiful custom puzzle features 104 very large puzzle pieces.  Measuring approximately 16" x 20" (inches) when assembled, this custom puzzle is a favorite among our customers for its extra-large puzzle pieces and professional look, as we print on a premium matte paper to create your beautiful puzzle.</span></p>
+<p>The large pieces in this completely personalized puzzle show great detail in the puzzle pieces and look amazing framed. Our <strong>104 piece puzzle is perfect for Family Portraits and Alzheimer's and Dementia patients.  </strong>  </p>
+<p><span>If you are looking for a <strong>gift for the hard to buy for person</strong>, look no further.  This personalized photo puzzle makes an unbelievable Birthday, Anniversary, Graduation, Special Occasion gift, or a gift for Seniors.  This puzzle has also been used for the visually impaired, as the puzzle pieces are extra large. </span></p>
+<div>
+<span><strong></strong></span><span><strong>*Have been used with Alzheimer's therapy patients for family recognition.*</strong>  The absolute perfect custom jigsaw puzzle with unlimited possibilities.</span>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<p><span>For information on Alzheimer's and Dementia puzzle recommendations, please see our article <span style="text-decoration: underline;"><em><strong><a href="https://the-missing-piece-puzzle-company.myshopify.com/admin/pages/43473567830" title="Alzheimer's and Dementia Puzzle Recommendations" target="_blank">HERE</a>.</strong></em></span></span></p>
+<div><span><span style="text-decoration: underline;"><em><strong></strong></em></span></span></div>
+<div><span></span></div>
+<div><span>If you need help with your questions about your photo resolution, we have an easy-to-use chart <span style="text-decoration: underline;"><em><strong><a href="https://themissingpiecepuzzle.com/pages/photo-resolution-recommendations-chart" title="RESOLUTION RECOMMENDATIONS FOR SUCCESS" target="_blank">HERE</a>.</strong></em></span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>upload photo 16x20</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/5220773955</id>
+      <title>No / No / No</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>16x20Cx104</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/5220773955</id>
+      <title>No / No / Yes</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>16x20Cx104R</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/5220773955</id>
+      <title>No / Yes / Yes</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>16x20x104-N-R</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/5220773955</id>
+      <title>No / Yes / No</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>16x20x104-N</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/5220912899</id>
+    <published>2016-02-09T22:12:00-05:00</published>
+    <updated>2016-02-09T22:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/blank-white-puzzle-for-a-unique-wedding-guest-book-hostess-puzzle"/>
+    <title>Blank White Puzzle for a Unique Wedding Guest Book  - 104 Puzzle Pieces (approx. 16 x 20)</title>
+    <s:type>Guest Book</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/104N_b8b287e3-549d-4105-b383-8ca43e9eedc3.jpg?v=1624484367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Guest Book<br>
+        <strong>Price: </strong>
+            29.99 - 34.99
+            <a href="https://themissingpiecepuzzle.com/products/blank-white-puzzle-for-a-unique-wedding-guest-book-hostess-puzzle">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Blank White Puzzle Pieces</strong> come together to form the <strong>Perfect Wedding Guest Book</strong> or <strong>Guest Book</strong> for any special occasion. This extra-large bright white puzzle is approximately 16 x 20 inches when completed and will fit beautifully into a standard American Sized frame, as they are proudly <strong>MADE IN AMERICA.</strong> <br><br>Our extra-large piece puzzle is very sturdy and durable, features a bright white covering that will provide enough room for your special guests to leave a nice sized signature. Our <strong>104 piece guest book puzzle</strong> has an average piece size of 1.5 x 2 inches.  We do not stock this puzzle without numbering, as they are very challenging to assemble and will automatically hand-number the back of each puzzle.</p>
+<p>WRITING ON THE PUZZLE:  There are no special pens needed to sign our puzzles and we highly recommend using a regular ballpoint pen. Sharpies look amazing on the white puzzle pieces, but please stay away from using anything with an ultra-fine or fine point, as these do not work well on puzzle pieces.  Gel pens are not recommended.</p>
+<p>Our puzzles are all Made In America with quality standards in mind and are easily framed because of their standard sizes. A wonderful Unique Guest Book Puzzle for every occasion. Perfect for Weddings, Parties, Quincierna's, Bar &amp; Bat Mitzvahs' and Sweet 16 parties!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/5220912899</id>
+      <title>No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>16x20x104-N</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/5220912899</id>
+      <title>Yes</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>16x20x104-N-RUSH</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

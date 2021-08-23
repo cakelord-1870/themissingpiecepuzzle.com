@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://themissingpiecepuzzle.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://themissingpiecepuzzle.com/collections/personalized-puzzles-made-in-america.atom"/>
+  <title>The Missing Piece Puzzle Company</title>
+  <updated>2021-04-28T21:54:01-04:00</updated>
+  <author>
+    <name>The Missing Piece Puzzle Company</name>
+  </author>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/6567131119702</id>
+    <published>2021-04-28T21:54:01-04:00</published>
+    <updated>2021-04-28T21:54:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/copy-of-custom-photo-puzzle-16-x-20-inches-choose-your-piece-count-from-15-to-500-piece-custom-puzzles"/>
+    <title>Graduation Fundraising Puzzle.  Custom fundraising idea for college tuition.</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/graduationphotocutintocustompuzzle-TheMissingPiecePuzzleCompany.jpg?v=1619660778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.99 - 51.99
+            <a href="https://themissingpiecepuzzle.com/products/copy-of-custom-photo-puzzle-16-x-20-inches-choose-your-piece-count-from-15-to-500-piece-custom-puzzles">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It's graduation time and there's no better way to send your graduate off into their next chapter than with a custom puzzle.  Turn that graduation photo into a lasting memory that they can piece together daily. </p>
+<p>If you've ever needed a custom fundraising idea that is easy, fast, and very effective then this fundraiser is for you. Gather your graduation photo and turn it into your ticket to college! It's so easy to use a customized puzzle as an event-based fundraiser too - we'll guide the way on how you can make money FAST.</p>
+<p>Check out our <a title="Fundraise with a custom puzzle.  Ideas from The Missing Piece Puzzle Company" href="https://themissingpiecepuzzle.com/blogs/jigsaw-puzzle-talk/college-fundraiser-custom-puzzle" target="_blank">FUNDRAISER </a>page filled with ideas on how to use a custom puzzle for a unique and fast fundraiser.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>holiday</s:tag>
+    <s:tag>upload photo 16x20</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/6567131119702</id>
+      <title>15 Pieces / No</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>16x20x15</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/6567131119702</id>
+      <title>15 Pieces / Yes</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>16x20x15-R</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/6567131119702</id>
+      <title>30 Pieces / No</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>16x20x30</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/6567131119702</id>
+      <title>30 Pieces / Yes</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>16x20x30-R</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/6567131119702</id>
+      <title>63 Pieces / No</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>16x20x63</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/6567131119702</id>
+      <title>63 Pieces / Yes</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>16x20x30-R</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/6567131119702</id>
+      <title>80 Pieces / No</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>16x20x80</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/6567131119702</id>
+      <title>80 Pieces / Yes</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>16x20x80-R</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/6567131119702</id>
+      <title>104 Pieces / No</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>16x20x104</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/6567131119702</id>
+      <title>104 Pieces / Yes</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>16x20x104-R</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/6567131119702</id>
+      <title>320 Pieces / No</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>16x20x320</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/6567131119702</id>
+      <title>320 Pieces / Yes</title>
+      <s:price currency="USD">51.99</s:price>
+      <s:sku>16x20x320-R</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/6567131119702</id>
+      <title>500 Pieces / No</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>16x20x500</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/6567131119702</id>
+      <title>500 Pieces / Yes</title>
+      <s:price currency="USD">51.99</s:price>
+      <s:sku>16x20x500-R</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/4438019047510</id>
+    <published>2019-12-06T21:52:02-05:00</published>
+    <updated>2019-12-06T21:52:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/copy-of-custom-post-card-size-puzzles-design-your-own-puzzle-with-6-pieces"/>
+    <title>Custom Post Card Size Puzzles. Design your own puzzle with 6 pieces.</title>
+    <s:type>Custom Puzzle</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/logo_cut_into_a_4x6_puzzle_The_Missing_Piece_Puzzle_Company_2e7a7065-7cfa-4471-8bcf-da73e50467ee.jpg?v=1575687124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Custom Puzzle<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Custom photo puzzle with 6 large pieces that's a wonderful stocking stuffer and amazing value.  Our 4x6 inch puzzle can easily be used as a vacation announcement, to help with dementia patients, or as a Stocking Stuffer for your littles.  We place your design on this wonderful <strong>Post Card Size Puzzle. </strong> </p>
+<p><strong>Unique and very affordable custom puzzle.</strong></p>
+<p>Fits nicely on your desk and looks amazing framed.  This thick and durable puzzle measures approximately 4 x 6 inches and features six oversized pieces. Own a personalized puzzle for a very <strong>low affordable price</strong>!  </p>
+<meta charset="utf-8">
+<p>This puzzle is packaged in a clear sealed sleeve. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4x6</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>true</s:tag>
+    <s:tag>upload photo 4x6</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4438019047510</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>4x6 single custom</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1961506242646</id>
+    <published>2019-02-09T22:12:35-05:00</published>
+    <updated>2019-02-09T22:12:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/birthday-gift-cheap-custom-puzzle-gift-with-60-pieces-8-x-10-inch-puzzle"/>
+    <title>STOCKING STUFFER PUZZLE.  Cheap Custom Puzzle Gift with 60 Pieces!  8 x 10 inch Puzzle</title>
+    <s:type>Custom Puzzle</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/60_beach_jump_cut_1b7078f7-37a3-407d-8761-b8880a6a27bd.jpg?v=1606020802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Custom Puzzle<br>
+        <strong>Price: </strong>
+            19.99 - 24.99
+            <a href="https://themissingpiecepuzzle.com/products/birthday-gift-cheap-custom-puzzle-gift-with-60-pieces-8-x-10-inch-puzzle">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The perfect Stocking Stuffer.  Custom Photo Puzzle!  Stock up on gift ideas with your favorite photos. Our newest 8 x 10-inch puzzle has <strong>60 easy to hold puzzle pieces </strong>that show great detail. <strong>Great puzzle for teens, Mom and Dad, and teachers.</strong></p>
+<p>This very popular puzzle shows detail, is elegant, and very competitively priced. Perfect to keep the kids busy while you're cooking dinner, and makes a great advertising puzzle!  <strong>Unlimited uses...  </strong></p>
+<p>Very popular and <strong>easy size to frame</strong>. Great value puzzle. Will come in a box with the picture on the lid. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>holiday</s:tag>
+    <s:tag>upload photo 8x10</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1961506242646</id>
+      <title>No</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8x10x60</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1961506242646</id>
+      <title>Yes</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8x10x60C-RUSH</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10221094542</id>
+    <published>2018-11-07T17:28:00-05:00</published>
+    <updated>2018-11-07T17:28:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/custom-puzzle-for-dad-grandpa"/>
+    <title>Personalized Photo Puzzle  for the Thrill Seeker.  Great Grandpa and Dad Gift. 104 XL Pieces</title>
+    <s:type>Guest Book</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/guest-book-personalized-photo-puzzle-and-wedding-guest-book-puzzle-104-extra-large-pieces-3.jpg?v=1559777181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Guest Book<br>
+        <strong>Price: </strong>
+            44.99 - 49.99
+            <a href="https://themissingpiecepuzzle.com/products/custom-puzzle-for-dad-grandpa">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span>This extra-large <strong>Custom Photo Jigsaw Puzzle</strong> features 104 <strong>large puzzle pieces made from your photo</strong>.  One of our best sellers, this puzzles extra large puzzle pieces have a professional look, as we print on a premium matte paper to create your beautiful puzzle.  It looks amazing framed.</span></div>
+<div><span></span></div>
+<div>Frequently gifted, this one is printed in a beautiful matte finish and easily allows for signatures on either the front or back of each piece.  Treat Dad to a photo of an adventure, vacation or the family.  </div>
+<div></div>
+<div>Ships Fast!</div>
+<div></div>
+<div>Take a look at our resolution recommendation guide <a href="https://themissingpiecepuzzle.com/pages/photo-resolution-recommendations-chart" target="_blank" title="Resolution Recommendation Guide" rel="noopener noreferrer"><span style="text-decoration: underline;"><em><strong>HERE</strong></em></span></a>.</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>false</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>upload photo 16x20</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10221094542</id>
+      <title>No</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>16x20x104C</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10221094542</id>
+      <title>Yes</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>16x20x104C-RUSH</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/5166429123</id>
+    <published>2018-01-12T19:14:58-05:00</published>
+    <updated>2018-01-12T19:14:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/jigsaw-puzzle-pattern-scarf-1"/>
+    <title>Black Autism Awareness Jigsaw Puzzle Ribbon Scarf</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/black-autism-awareness-jigsaw-puzzle-ribbon-scarf-1.jpg?v=1527799520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our beautiful handmade and hand-cut Puzzle Pattern scarf features anti-pill fleece with an autism awareness puzzle ribbon that makes you smile.  Frequently used for Autism Awareness, this pattern is hard to find a pattern that matches almost every outfit.  Show your support while looking stylish.  Handmade in our shop, order soon as there is a limited supply, a simple design, and not sewn.  </span></p>
+<p>These scarves are hand-cut in our store and are approximately 58 inches long and 8-10 inches wide.  Made of 100% polyester, it is recommended that you:</p>
+<div>
+<ul>
+<li>Machine Wash Cold, Delicate Cycle, No Chlorine Bleach, Tumble Dry Low, Remove Promptly</li>
+</ul>
+Each scarf will vary slightly as each is hand cut.  The material is an anti-pill fleece material that will keep you warm while looking very stylish.  This product is not sewn, is cut by hand, and is unique.</div>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>holiday</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/5166429123</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>blackscarf</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1395749060694</id>
+    <published>2017-10-30T15:48:58-04:00</published>
+    <updated>2017-10-30T15:48:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/large-personalized-photo-puzzle-with-63-pieces"/>
+    <title>Large Personalized Photo Puzzle With 63 Pieces.  The Perfect Boyfriend or Girlfriend Gift.</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/custom_puzzle_of_girl_drinking_hot_chocolate_with_63_pieces_cut_-_the_Missing_Piece_Puzzle_Company.jpg?v=1540923917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.99 - 61.49
+            <a href="https://themissingpiecepuzzle.com/products/large-personalized-photo-puzzle-with-63-pieces">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Turn your photo memories into fun this season.  Our custom photo jigsaw puzzle has a finished size of 63 Extra Large pieces.  This puzzle is the perfect gift for your husband or wife, girlfriend or boyfriend or the young puzzler.  Made of a very thick puzzle board and printed professionally in a matte finish, this puzzle features your most cherished photo memories turned into a jigsaw puzzle, also known as FUN.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>upload photo 16x20</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1395749060694</id>
+      <title>No / No</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>16x20x63C-WB</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1395749060694</id>
+      <title>No / Yes</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>16x20x63C-WB-RUSH</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1395749060694</id>
+      <title>Yes / No</title>
+      <s:price currency="USD">56.49</s:price>
+      <s:sku>16x20x63C-WB-N</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1395749060694</id>
+      <title>Yes / Yes</title>
+      <s:price currency="USD">61.49</s:price>
+      <s:sku>16x20x63C-N-WB-Rush</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1233241027</id>
+    <published>2017-10-30T15:48:51-04:00</published>
+    <updated>2017-10-30T15:48:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/extra-large-puzzle-pieces-kids-puzzle-with-big-pieces"/>
+    <title>Extra Large Puzzle Pieces.  Kids Puzzle with Big Pieces 15 pieces</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/30_ballerina_cut.jpg?v=1537497337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.99 - 49.99
+            <a href="https://themissingpiecepuzzle.com/products/extra-large-puzzle-pieces-kids-puzzle-with-big-pieces">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span>The perfect puzzle for <strong>Babies and Toddlers! </strong>  Your child can piece together the important members of your family, one piece at a time.  This is a BIG puzzle with an approximate size of 16 x 20 inches and features extra-large puzzle pieces that are sturdy, durable, and designed to last. Each puzzle piece is approximately 4-5 inches in size and is thick.  The perfect puzzle for first time puzzlers.</span></div>
+<div><span><span> </span></span></div>
+<div>
+<span><span>Built for long wear from sturdy board, this puzzle can take a beating!  S</span></span><span><span>hows amazing detail in photo's and can be made either landscape or portrait.  Fits into a standard size frame.  Absolutely adorable...a must-have for your young child.  <strong>THE PERFECT CHILDREN'S PUZZLE</strong>... Makes perfect baby gifts, baby announcements, grandparent presents and birth announcements.</span></span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>holiday</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233241027</id>
+      <title>No</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>16x20x15C</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233241027</id>
+      <title>Yes</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>16x20x15CR</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10327706382</id>
+    <published>2017-04-12T11:35:59-04:00</published>
+    <updated>2017-04-12T11:35:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/autism-awareness-coffee-cup-autism-touches-us-all"/>
+    <title>Autism Awareness Coffee Cup &quot;Autism Touches Us All&quot;</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/autism-awareness-coffee-cup-autism-touches-us-all-1.jpg?v=1527801303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our beautiful coffee cup features the puzzle piece design of <a href="https://themissingpiecepuzzlecompany.com/collections/autism-awareness-products" target="_blank" title="autism awareness products" rel="noopener noreferrer">Autism Awareness</a>.  This ceramic coffee mug holds a nice 10 ounces and is completely dishwasher safe. wake up with your favorite coffee and smile!  Comes in a gift box.  Limited Supply Order Now.</p>
+<p>THIS ITEM IN NOT RETURNABLE.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10327706382</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>autism-cup</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10295222478</id>
+    <published>2017-04-09T12:36:00-04:00</published>
+    <updated>2017-04-09T12:36:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/nursery-jigsaw-puzzle-wall-art-variety-of-options"/>
+    <title>Nursery Jigsaw Puzzle Wall Art - Variety of Options</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/nursery-jigsaw-puzzle-wall-art-variety-of-options-1.jpg?v=1555518839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nursery</strong> and Bedroom Wall Art for Children.  </p>
+<p>Wooden Jigsaw Puzzle piece that is completely connectable, so choose a few different puzzle pieces and design your wall art to suit your style.  Thick wood that is half-inch thick!</p>
+<div class="fieldset-wrapper">
+<ul>
+<li>Each piece measures 12 x 12 x .5 inches</li>
+<li>Completely interchangeable with other puzzle pieces</li>
+<li>Made of Wood, thick and durable half inches wide</li>
+<li>Easy to hang as each piece has pocket mounts</li>
+<li>Made In America</li>
+</ul>
+<p>Each puzzle piece is completely connectable with other puzzle pieces.  Design your own wall full for the entire family.  Limited supply, so order today!</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>holiday</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10295222478</id>
+      <title>Stars</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>pgd-stars</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10295222478</id>
+      <title>Son</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>pgd-son</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10288293454</id>
+    <published>2017-04-08T20:14:00-04:00</published>
+    <updated>2017-04-08T20:14:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/wooden-puzzle-frame-for-child-pink-and-adorable-giraffes-baby-room-decor"/>
+    <title>Wooden Puzzle Wall Decor Frame for Child.  Pink and Adorable Giraffe&apos;s.  Baby Room Decor</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/wooden-puzzle-wall-decor-frame-for-child-pink-and-adorable-giraffe-s-baby-room-decor-1.jpg?v=1515394345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adorable wooden jigsaw puzzle frame features a pink background with pink giraffes.  Mount a 4x6 inch photo and hang it in your babies room.  Great wall decor that will interlock with other puzzle pieces for amazing art on your walls.  Perfect addition to your nursery.</p>
+<p> Inspirational wall art.</p>
+<ul>
+<li>Each piece measures 12 x 12 x .5 inches.</li>
+<li>Completely connectable with other puzzle pieces</li>
+<li>Made of Wood, thick and durable</li>
+<li>Made In America</li>
+</ul>
+<p>Each puzzle piece is completely connectable with other puzzle pieces.  Design your own wall full for the entire family.  Limited supply, so order today!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>holiday</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10288293454</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>pgd-giraffe</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/9974176654</id>
+    <published>2017-03-06T12:36:00-05:00</published>
+    <updated>2017-03-06T12:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/need-it-fast-unique-custom-gift-for-your-loved-one-great-boyfriend-and-girlfriend-gift-idea-for-any-occasion"/>
+    <title>Custom Photo Puzzle 16 x 20 Inches - Choose Your Piece Count From 15 to 500 Piece Custom Puzzles</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/csutompuzzlewith30piecesof2childrenbirthdaygift-TheMissingPiecePuzzleCo.jpg?v=1617811160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.99 - 51.99
+            <a href="https://themissingpiecepuzzle.com/products/need-it-fast-unique-custom-gift-for-your-loved-one-great-boyfriend-and-girlfriend-gift-idea-for-any-occasion">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You've seen <strong>custom puzzles</strong> before, but not like these! Our custom photo puzzles are made of high-quality materials, as we are a top manufacturer in the custom photo puzzle business. </p>
+<p>Your custom puzzle will be an heirloom that lasts a lifetime and will bring tears of joy to the recipient. And at this price? Don't wait as puzzle supplies are limited right now due to such incredible demand!  A hot gift that is completely personalized from your photo and in your choice of piece count.</p>
+<p>Your loved ones will LOVE getting personalized photos from YOU in their hands fast,  with no other work required but assembling them into their beautiful puzzle.</p>
+<p>The finished size is approximately 16 x 20 inches which means that it is perfect for framing when this masterpiece custom puzzle is assembled.</p>
+<p>This personalized puzzle is the PERFECT <strong>last-minute gift for everyone</strong> on your gift list, even for your loved one who has everything.</p>
+<p>Our very affordable puzzles are the perfect family fun for the perfect Christmas Gift Birthday Present or just to say I Love You. <strong>So gather your photos and have fun</strong>.</p>
+<p>Our 16x20 inch puzzle comes in 15, 30, 63, 80, 104, 320, or 500 pieces.  Simply select your piece count and we'll do the rest! We print on high-quality puzzle board in a professional matte finish, and they are<span style="text-decoration: underline;"><em><strong> Made In America</strong></em></span>.</p>
+<p>*Our 320 and 500 pieces are similarly shaped and sized, so please be sure that the recipient is an expert in puzzling.  We recommend using a photo that is colorful and has many patterns.  We do not offer to number puzzle pieces on our 320 or 500 piece puzzle so please do not select this option.  (You will receive an error message stating that the product is unavailable.)<br></p>
+<p>If you have questions about your photo resolution, please click <a title="PHOTO RESOLUTION RECOMMENDATION GUIDE" href="https://themissingpiecepuzzle.com/pages/photo-resolution-recommendations-chart" target="_blank"><span style="text-decoration: underline;"><em><strong>HERE</strong></em></span></a> for more information.</p>
+<p> Happy Puzzling!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>holiday</s:tag>
+    <s:tag>upload photo 16x20</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974176654</id>
+      <title>15 Pieces / No</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>16x20x15</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974176654</id>
+      <title>15 Pieces / Yes</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>16x20x15-R</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974176654</id>
+      <title>30 Pieces / No</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>16x20x30</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974176654</id>
+      <title>30 Pieces / Yes</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>16x20x30-R</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974176654</id>
+      <title>63 Pieces / No</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>16x20x63</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974176654</id>
+      <title>63 Pieces / Yes</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>16x20x30-R</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974176654</id>
+      <title>80 Pieces / No</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>16x20x80</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974176654</id>
+      <title>80 Pieces / Yes</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>16x20x80-R</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974176654</id>
+      <title>104 Pieces / No</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>16x20x104</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974176654</id>
+      <title>104 Pieces / Yes</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>16x20x104-R</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974176654</id>
+      <title>320 Pieces / No</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>16x20x320</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974176654</id>
+      <title>320 Pieces / Yes</title>
+      <s:price currency="USD">51.99</s:price>
+      <s:sku>16x20x320-R</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974176654</id>
+      <title>500 Pieces / No</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>16x20x500</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974176654</id>
+      <title>500 Pieces / Yes</title>
+      <s:price currency="USD">51.99</s:price>
+      <s:sku>16x20x500-R</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/9974128590</id>
+    <published>2017-03-06T12:32:00-05:00</published>
+    <updated>2017-03-06T12:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/adjustable-fit-for-xs-to-xl-wrists-infinity-bracelet-heart-bracelet-pearl-bracelet-girlfriend-best-friend-gift-friendship-bracelet"/>
+    <title>Infinity Bracelet with a beautiful heart and faux pearl.  Friendship bracelet and best friend gift.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/jewelry-infinity-bracelet-with-a-beautiful-heart-and-faux-pearl-friendship-bracelet-and-best-friend-gift-1.jpg?v=1496179434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful blue infinity friendship bracelet with faux pearl in the center of a heart.  This bracelet is designed to fit most wrists from sizes XS-XL.  A two-inch extension allows for a fit on most wrists from size 6.5 inches to 8.5 inches. Built with a lobster claw clasp for security and a comfortable wear.  Beautiful braided center for a unique and fun look. Four strands per bracelet. </p>
+<p>Ready to ship!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Facebook Marketplace</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974128590</id>
+      <title>Blue</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>inbbrfauxp-blue</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974128590</id>
+      <title>Green</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>ingbrfauxp-green</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/9725399246</id>
+    <published>2017-02-11T15:30:00-05:00</published>
+    <updated>2017-02-11T15:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/jigsaw-puzzle-design-socks-sale"/>
+    <title>Jigsaw Puzzle Design Socks.  ON SALE.  Grab a few pair of puzzle socks.</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/jigsaw-puzzle-design-socks-sale-1.jpg?v=1515393600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out these beautiful Jigsaw Puzzle design socks.  Features bright puzzle pieces on a black background.  These socks fit Women's size 9-11, which is shoe size 5 to 10, and are made of comfortable Cotton, Polyester, and Spandex blend.  Wears well, made to last.  This listing is for one pair of socks, color of our choice.</p>
+<p>Makes the perfect stocking stuffer or gift for the puzzle fanatic.</p>
+<p>Check out our swag link on our homepage.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9725399246</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>puzzlesocks</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/5419850755</id>
+    <published>2016-02-22T12:35:00-05:00</published>
+    <updated>2016-02-22T12:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/extra-large-custom-photo-jigsaw-puzzle-with-80-large-pieces"/>
+    <title>Extra Large Custom Photo Jigsaw Puzzle with 80 large pieces</title>
+    <s:type>Wedding</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/Flower_Girl_80_piece_cut_puzzle_from_The_Missing_Piece_Puzzle_Company.jpg?v=1620745581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Wedding<br>
+        <strong>Price: </strong>
+            44.99 - 49.99
+            <a href="https://themissingpiecepuzzle.com/products/extra-large-custom-photo-jigsaw-puzzle-with-80-large-pieces">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our custom photo puzzles are the perfect way to tell your story and preserve memories. Our puzzle pieces are large, high-quality, and easy for little hands to handle. We can create a custom puzzle for any occasion.</p>
+<p>This beautiful and large 80 piece puzzle features large puzzle pieces that capture memories.  Having an average size of 2 x 2 inches each, this puzzle has an approximate finished size of 16 x 20 inches when complete.  Thick durable puzzle pieces on a professional matte finish for a stunning puzzle of YOU.  </p>
+<p>This puzzle features very large pieces that are easily handled and show great detail.  This is the perfect puzzle if you have older puzzlers who have <strong>vision problems</strong> or need <strong>larger puzzle pieces to handle</strong>.  </p>
+<p>Makes a great gift for anyone on your list.  </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/5419850755</id>
+      <title>No</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>16x20x80C</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/5419850755</id>
+      <title>Yes</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>16x20x80-RUSH</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/4990845379</id>
+    <published>2016-01-28T17:06:00-05:00</published>
+    <updated>2016-01-28T17:06:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/puzzle-scarf-autism"/>
+    <title>Jigsaw Puzzle Scarf widely recognized for Autism Awareness</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/jigsaw-puzzle-scarf-widely-recognized-for-autism-awareness-1.jpg?v=1527803914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Everyone knows a jigsaw puzzle lover who would LOVE this handmade colorful puzzle pattern scarf.  This is also our Autism Awareness puzzle scarf.  Our hand-cut and handmade scarf is absolutely adorable.  Made of anti-pill fleece, this scarf is a conversation starter and a statement piece.  A simple design but a wonderfully soft and bright puzzle scarf that brings a smile to your face.  </p>
+<p>Each scarf is approximately 58-60 inches long and 8-10 inches wide.  Each scarf is handmade, so there are variations of cut from the photos.  Made with love because autism means so much to us!  Grab a few, as these are limited.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4990845379</id>
+      <title>multi-color jigsaw pattern</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>autismscarf-ribbon</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4990845379</id>
+      <title>Black Ribbon</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>blackscarf</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1566176477270</id>
+    <published>2015-06-25T17:02:00-04:00</published>
+    <updated>2015-06-25T17:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/extra-large-puzzle-pieces-for-children"/>
+    <title>Custom Puzzle With 30 Extra Large Puzzle Pieces Perfect for Young Children and Toddlers</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/csutompuzzlewith30piecescutveronicasgrands.jpg?v=1620672588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.99 - 49.99
+            <a href="https://themissingpiecepuzzle.com/products/extra-large-puzzle-pieces-for-children">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our beautiful custom photo puzzle with <strong>Extra Large Puzzle Pieces</strong> make this puzzle the perfect puzzle for a unique and alternative Family Portrait.  Each <strong>extra-large 30 piece puzzle piece</strong> measures approximately 3 x 4 inches, making this custom puzzle easy to hold and maneuver.  Each piece has a large surface area and the finished size is approximately 16x20 inches when complete.  The pieces are easy to grab and hold for the young fingers.</p>
+<div></div>
+<div></div>
+<div>Featuring <b>generous-sized</b> pieces, this puzzle is perfect for the Baby Shower, Family Portraits, Toddlers, and Special events.  The extra-large piece sizes make it easy to work with while providing the detail needed to preserve cherished memories. </div>
+<div></div>
+<div></div>
+<div></div>
+<div>If you require a custom puzzle with fewer pieces, we also offer a beautiful 16 x 20-inch puzzle with <a title="Puzzle For Child with 15 pieces and large pieces" href="https://themissingpiecepuzzlecompany.com/collections/puzzle-pieces-by-count/products/extra-large-puzzle-pieces-kids-puzzle-with-big-pieces">15 Pieces HERE</a>. </div>
+<div> </div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div><strong>OPTIONS:  </strong></div>
+<div><strong></strong></div>
+<div><br></div>
+<div><strong></strong></div>
+<div><strong></strong></div>
+<div><strong></strong></div>
+<div>
+<strong>HAND-NUMBERING</strong>:  We can hand-number the back of each puzzle piece for ease of assembly.  This is especially helpful if you order multiple puzzles, as we can hand-number in different colors.</div>
+<div></div>
+<div></div>
+<div></div>
+<div><br></div>
+<div></div>
+<div></div>
+<div>
+<strong>RUSH OPTION</strong>:  When you select the RUSH option, we will move your order to the front of our queue and expedite the order.  This option is very important during holidays and during the pandemic, as orders can be backed up for weeks without this option.  Please be sure to select the proper shipping option for your timeline at the time of checkout.</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:tag>upload photo 16x20</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1566176477270</id>
+      <title>No</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>16x20x30C</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1566176477270</id>
+      <title>Yes</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>16x20x30C-R</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/144154558478</id>
+    <published>2015-06-25T17:02:00-04:00</published>
+    <updated>2015-06-25T17:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/copy-of-500-piece-personalized-photo-puzzle-custom-puzzle-with-500-pieces"/>
+    <title>Personalized Photo Puzzle - 500 Piece Personalized Puzzle</title>
+    <s:type>Custom Puzzle</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/500_cut_of_santa_with_little_boy_crying.jpg?v=1575602765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Custom Puzzle<br>
+        <strong>Price: </strong>
+            46.99 - 51.99
+            <a href="https://themissingpiecepuzzle.com/products/copy-of-500-piece-personalized-photo-puzzle-custom-puzzle-with-500-pieces">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect Gift for that hard to buy for person. Photo Puzzle with 500 pieces.<strong>  Our very popular custom puzzle with</strong><strong> 500 pieces</strong> presents quite a challenge for even the best puzzler! This is<strong> our best selling puzzle</strong> and has been widely given as a Birthday, Christmas, Retirement, and gifts for that hard to buy for person.  The finished size is approximately 16 x 20 inches.</p>
+<p><span>*</span><span>Our 320 and 500 piece</span><span> puzzles are recommended for the expert plus puzzler.  The puzzles feature pieces that are similarly shaped, sized, and cut that present an additional challenge.  It is recommended that photos </span><span>for these piece counts </span><span>have a variety of colors and patterns.  Similarly colored/patterned photos should be avoided.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>holiday</s:tag>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>true</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/144154558478</id>
+      <title>No</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>16x20Cx500</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/144154558478</id>
+      <title>Yes</title>
+      <s:price currency="USD">51.99</s:price>
+      <s:sku>16x20Cx500-RUSH</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1233241731</id>
+    <published>2015-06-25T17:02:00-04:00</published>
+    <updated>2015-06-25T17:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/cheap-custom-puzzle-gift"/>
+    <title>Cheap Custom Puzzle Gift!  Great Puzzle For Children In Either 30 or 60 Pieces.</title>
+    <s:type>Custom Puzzle</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/60_nicholle_cut.jpg?v=1620671495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Custom Puzzle<br>
+        <strong>Price: </strong>
+            24.99 - 29.99
+            <a href="https://themissingpiecepuzzle.com/products/cheap-custom-puzzle-gift">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Choose your piece count with this adorable custom puzzle from a photo.  This completely personalized puzzle makes a great gift and will be their favorite for years to come.   This very popular puzzle shows detail, is elegant, and very competitively priced.</p>
+<p>Our 8 x 10-inch puzzle has <strong>30 very large pieces or 60 pieces </strong>that show great detail. <strong>Great puzzle for young children and toddlers </strong>or to show detail in the photo.  This custom puzzle has many uses and can even keep the kids busy while you're cooking dinner! <strong>Unlimited gifting opportunities...  </strong>Choose from either 30 or 60 pieces.</p>
+<p>This custom puzzle is very popular and is very easy to frame. This puzzle makes an awesome way to spring a surprise vacation through a puzzle.  Great value puzzle.</p>
+<p>Your custom puzzle will arrive at your doorstep in days, as we are Made In America.  We package in a box with your photo on the lid.</p>
+<p>Choose a different piece count from our menu...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>upload photo 8x10</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233241731</id>
+      <title>30 Pieces / No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8x10x30</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233241731</id>
+      <title>30 Pieces / Yes</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>8x10x30C-RUSH</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233241731</id>
+      <title>60 Pieces / No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8x10x60</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233241731</id>
+      <title>60 Pieces / Yes</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>8x10x60C-RUSH</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1233241091</id>
+    <published>2015-06-25T17:02:00-04:00</published>
+    <updated>2015-06-25T17:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/perfect-grandparent-gift-idea-custom-photo-puzzle"/>
+    <title>Perfect Personalized Grandparent Gift Idea. Custom Photo Puzzle with 320 XL Pieces.</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/personalized_custom_jigsaw_puzzle_of_girl_reading_to_her_teddy_bear_320_pieces_cut.jpg?v=1541629942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            46.99 - 51.99
+            <a href="https://themissingpiecepuzzle.com/products/perfect-grandparent-gift-idea-custom-photo-puzzle">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>We offer the perfect personalized photo puzzle gift for carefree Seniors, Grandparents, and even your In-Laws.  This <strong>320 piece personalized puzzle f</strong>eatures your most cherished memory of family history<strong> </strong>and is Made In America<strong>.</strong>  </span></p>
+<p><span>This puzzle features Large Puzzle Pieces that are manageable for all hands while showing nice detail in the photo.  Each puzzle piece measures approximately 1 x 1 inch each, making them a little larger than the standard puzzle. </span> </p>
+<p><span>Great for people who are visually impaired or need a little more to grasp onto.  With over three hundred pieces, this custom puzzle will keep you busy and is recommended for the expert puzzler, as it is similarly shaped and sized, but not exact!  A fan favorite, this sturdy and thick custom puzzle has been given as<strong> a Personalized Grandparent's gift idea, teacher gifts,</strong> and has unlimited uses<strong>.</strong>  Why not frame it for a great family portrait puzzle?</span></p>
+<p>*It's important to note that our 320 piece puzzle is recommended for the expert puzzler.  This large custom puzzle features pieces that are similarly shaped, sized, and cut that present an additional challenge to even an expert who has puzzled for years.  It is recommended that your photos for this puzzle have a variety of colors and patterns.  Similarly colored/patterned photos should be avoided and high-resolution images are suggested.  Check out our blog post on <a title="Choosing A Photograph For A Custom Puzzle" href="The%20large%20pieces%20show%20great%20detail%20in%20photographs%20and%20look%20amazing%20framed.%20" target="_blank">Choosing A Photograph</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233241091</id>
+      <title>No</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>16x20-320-C</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233241091</id>
+      <title>Yes</title>
+      <s:price currency="USD">51.99</s:price>
+      <s:sku>16x20-320-R</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+</feed>

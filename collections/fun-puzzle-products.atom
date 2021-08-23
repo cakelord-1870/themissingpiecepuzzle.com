@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://themissingpiecepuzzle.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://themissingpiecepuzzle.com/collections/fun-puzzle-products.atom"/>
+  <title>The Missing Piece Puzzle Company</title>
+  <updated>2020-03-29T16:36:54-04:00</updated>
+  <author>
+    <name>The Missing Piece Puzzle Company</name>
+  </author>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+    <published>2020-03-29T16:36:54-04:00</published>
+    <updated>2020-03-29T16:36:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/gift-card"/>
+    <title>Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/e38bd83af578077b65a31424bd24d085.png?v=1624482393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            25.00 - 125.00
+            <a href="https://themissingpiecepuzzle.com/products/gift-card">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them? Give them the gift of choice with a The Missing Piece Puzzle Company gift card.</p>
+<p>Gift cards are delivered via email and contain instructions to redeem them at checkout. Our gift cards have no additional processing fees.</p>
+<p>Gift cards will expire one year from purchase date, but who can wait that long to have a custom puzzle made?  I can't think of anyone, either!</p>
+<p>Let's get your puzzle on....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$25.00 USD</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Gift Card $25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$50.00 USD</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>Gift Card $50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$75.00 USD</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>Gift Card $100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$100 USD</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Gift Card 75</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>125.00</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>Gift Card $125</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/3993589776470</id>
+    <published>2019-08-16T09:26:43-04:00</published>
+    <updated>2019-08-16T09:26:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/pink-puzzle-piece-bracelet-several-designs-to-choose-from"/>
+    <title>Pink Puzzle Piece Bracelet.  Several designs to choose from. Friendship bracelet.</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/pink_bracelet.jpg?v=1565966278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our beautiful pink bracelets are adjustable to fit most wrist sizes.  Featuring our signature puzzle piece, this pink bracelet is a great and inexpensive addition to your puzzle collection.  This makes a great gift for the puzzler in your life.  </p>
+<p>Each bracelet is made of wax cord and features pieces that are braided within the design.  The clasp is a lobster clasp and will keep your bracelet secure.  All metal pieces are silver in color.</p>
+<p>Choose from a few designs.  These bracelets are a limited edition in our shop and when they are gone, they are gone forever.  </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/3993589776470</id>
+      <title>Friendship</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>Friend-Pink-Bracelet</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/3993589776470</id>
+      <title>Double Heart Design</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>Double Heart-Pink-Bracelet</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/3993589776470</id>
+      <title>Love</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>Love-Pink-Bracelet</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/146643353614</id>
+    <published>2018-01-15T14:50:25-05:00</published>
+    <updated>2018-01-15T14:50:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/gender-reveal-unique-idea-jigsaw-puzzle-its-a-boy-or-its-a-girl-jigsaw-puzzle"/>
+    <title>Gender Reveal Unique Idea Jigsaw Puzzle - It&apos;s A Boy or It&apos;s A Girl Jigsaw Puzzle</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/its_a_girl_cut_gender_reveal.jpg?v=1526666849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>
+<strong>Unique Gender Reveal Puzzle.</strong> </h2>
+<p>Reveal your baby's gender with a jigsaw puzzle that is completely framable when complete.  Choose either 30 or 60 pieces and Girl or Boy.  We will keep your surprise by placing a question mark on the lid so that the puzzle will reveal the answer.  Fun, fast and very inexpensive! </p>
+<p>The Puzzle will have an approximate finished size of 8x10 inches when it is complete.  Frame it and place it in the nursery for memories that will last a lifetime.  A wonderful and very unique and fun way to announce your baby's gender.</p>
+<p><strong>Ready to ship item﻿﻿﻿.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/146643353614</id>
+      <title>30 Pieces / Baby Girl</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8x10x30 Girl</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/146643353614</id>
+      <title>30 Pieces / Baby Boy</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8x10x30 Boy</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/146643353614</id>
+      <title>60 Pieces / Baby Girl</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8x10x60 Girl</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/146643353614</id>
+      <title>60 Pieces / Baby Boy</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8x10x60 Boy</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/5166429123</id>
+    <published>2018-01-12T19:14:58-05:00</published>
+    <updated>2018-01-12T19:14:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/jigsaw-puzzle-pattern-scarf-1"/>
+    <title>Black Autism Awareness Jigsaw Puzzle Ribbon Scarf</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/black-autism-awareness-jigsaw-puzzle-ribbon-scarf-1.jpg?v=1527799520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our beautiful handmade and hand-cut Puzzle Pattern scarf features anti-pill fleece with an autism awareness puzzle ribbon that makes you smile.  Frequently used for Autism Awareness, this pattern is hard to find a pattern that matches almost every outfit.  Show your support while looking stylish.  Handmade in our shop, order soon as there is a limited supply, a simple design, and not sewn.  </span></p>
+<p>These scarves are hand-cut in our store and are approximately 58 inches long and 8-10 inches wide.  Made of 100% polyester, it is recommended that you:</p>
+<div>
+<ul>
+<li>Machine Wash Cold, Delicate Cycle, No Chlorine Bleach, Tumble Dry Low, Remove Promptly</li>
+</ul>
+Each scarf will vary slightly as each is hand cut.  The material is an anti-pill fleece material that will keep you warm while looking very stylish.  This product is not sewn, is cut by hand, and is unique.</div>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>holiday</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/5166429123</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>blackscarf</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10328625486</id>
+    <published>2017-04-12T13:10:39-04:00</published>
+    <updated>2017-04-12T13:10:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/autism-awareness-hat-blue-ball-cap"/>
+    <title>Autism Awareness Hat Blue Ball Cap</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/autism-awareness-hat-blue-ball-cap-1.jpg?v=1515392994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Autism Awareness Baseball Style hat</strong> featuring the autism awareness signature puzzle piece design.  Sport your support for Autism with this trendy hat that features a heart shape with puzzle pieces.  Made of cotton and adjustable to 24 inches, this hat is a must-have for everyone.  LIMITED SUPPLY AVAILABLE.  Order Now!</p>
+<p>This item is not returnable.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10328625486</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>autism-hat</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10327706382</id>
+    <published>2017-04-12T11:35:59-04:00</published>
+    <updated>2017-04-12T11:35:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/autism-awareness-coffee-cup-autism-touches-us-all"/>
+    <title>Autism Awareness Coffee Cup &quot;Autism Touches Us All&quot;</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/autism-awareness-coffee-cup-autism-touches-us-all-1.jpg?v=1527801303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our beautiful coffee cup features the puzzle piece design of <a href="https://themissingpiecepuzzlecompany.com/collections/autism-awareness-products" target="_blank" title="autism awareness products" rel="noopener noreferrer">Autism Awareness</a>.  This ceramic coffee mug holds a nice 10 ounces and is completely dishwasher safe. wake up with your favorite coffee and smile!  Comes in a gift box.  Limited Supply Order Now.</p>
+<p>THIS ITEM IN NOT RETURNABLE.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10327706382</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>autism-cup</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10327581006</id>
+    <published>2017-04-12T11:15:56-04:00</published>
+    <updated>2017-04-12T11:15:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/handmade-autism-awareness-wine-glass-with-a-puzzle-pattern-yellow-puzzle-piece-1"/>
+    <title>Handmade Autism Awareness Wine Glass with a Large Puzzle Piece Pattern</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/handmade-autism-awareness-wine-glass-with-a-large-puzzle-piece-pattern-1.jpg?v=1527803572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our handpainted <strong>Autism Awareness Wine Glass</strong> is made in our shop.  This glass features a very large set of puzzle pieces with blue, yellow, green and red, which are the autism awareness colors.  This is a very large wine glass which makes the phrase "I'm only having one glass" a little easier to handle.</p>
+<p>The glass measures approximately 8.5 inches high and approximately 4 inches wide, which is a very large glass.  Featuring hand painted puzzle pieces in colors representative of autism awareness, this one is FUN.</p>
+<p>ONE OF A KIND, so get it now before it's gone forever!</p>
+<p>THIS ITEM IS NOT RETURNABLE!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10327581006</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>autglass-lgpuzpc-4colors</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10295222478</id>
+    <published>2017-04-09T12:36:00-04:00</published>
+    <updated>2017-04-09T12:36:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/nursery-jigsaw-puzzle-wall-art-variety-of-options"/>
+    <title>Nursery Jigsaw Puzzle Wall Art - Variety of Options</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/nursery-jigsaw-puzzle-wall-art-variety-of-options-1.jpg?v=1555518839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nursery</strong> and Bedroom Wall Art for Children.  </p>
+<p>Wooden Jigsaw Puzzle piece that is completely connectable, so choose a few different puzzle pieces and design your wall art to suit your style.  Thick wood that is half-inch thick!</p>
+<div class="fieldset-wrapper">
+<ul>
+<li>Each piece measures 12 x 12 x .5 inches</li>
+<li>Completely interchangeable with other puzzle pieces</li>
+<li>Made of Wood, thick and durable half inches wide</li>
+<li>Easy to hang as each piece has pocket mounts</li>
+<li>Made In America</li>
+</ul>
+<p>Each puzzle piece is completely connectable with other puzzle pieces.  Design your own wall full for the entire family.  Limited supply, so order today!</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>holiday</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10295222478</id>
+      <title>Stars</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>pgd-stars</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10295222478</id>
+      <title>Son</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>pgd-son</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10295104078</id>
+    <published>2017-04-09T12:00:00-04:00</published>
+    <updated>2017-04-09T12:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/wood-puzzle-for-girls-room-you-are-dearly-loved-photo-frame"/>
+    <title>Wood Puzzle for Girls Room - You Are Dearly Loved - Photo Frame</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/wood-puzzle-for-girls-room-you-are-dearly-loved-photo-frame-1.jpg?v=1515394315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden Jigsaw Puzzle wall art hat is completely connectable to other puzzles for a beautiful design of your life puzzle.  This adorable puzzle piece is thick at a half-inch and holds a 4x6 inch photo of your adorable little loved one.</p>
+<ul>
+<li>Each piece measures 12 x 12 x .5 inches</li>
+<li>Completely interchangeable with other puzzle pieces</li>
+<li>Made of Wood, thick and durable half inches wide</li>
+<li>Easy to hang as each piece has pocket mounts</li>
+<li>Made In America</li>
+</ul>
+<p>Each puzzle piece is completely interchangeable with other puzzle pieces.  Design your own wall full for the entire family.  Limited supply, so order today!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10295104078</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>pgd-dearlylovedpink</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10295051726</id>
+    <published>2017-04-09T11:45:00-04:00</published>
+    <updated>2017-04-09T11:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/wood-puzzle-wall-decor-our-family-grows-with-love"/>
+    <title>Wood Puzzle Wall Decor - Our Family Grows With Love</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/wood-puzzle-wall-decor-our-family-grows-with-love-1.jpg?v=1515394320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspirational Wall Art Decor.  Beautiful Our Family Grows With Love that will easily interlock with other puzzle pieces for amazing art on your walls.  Perfect addition to your home.</p>
+<p> Inspirational wall art.</p>
+<ul>
+<li>Each piece measures 12 x 12 x .5 inches.</li>
+<li>Completely connectable with other puzzle pieces</li>
+<li>Made of Wood, thick and durable</li>
+<li>Made In America</li>
+</ul>
+<p>Each puzzle piece is completely connectable with other puzzle pieces.  Design your own wall full for the entire family.  Limited supply, so order today!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10295051726</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>pgd-familygrowslove</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10290851598</id>
+    <published>2017-04-08T20:26:00-04:00</published>
+    <updated>2017-04-08T20:26:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/wooden-puzzle-piece-love-never-fails-red"/>
+    <title>Wooden Puzzle Piece - Love Never Fails - Red</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/wooden-puzzle-piece-love-never-fails-red-1.jpg?v=1515394324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden Jigsaw Puzzle piece Love Never Fails.  Inspirational wall art.</p>
+<ul>
+<li>Each piece measures 12 x 12 x .5 inches.</li>
+<li>Completely connectable with other puzzle pieces</li>
+<li>Made of Wood, thick and durable</li>
+<li>Made In America</li>
+</ul>
+<p>Each puzzle piece is completely connectable with other puzzle pieces.  Design your own wall full for the entire family.  Limited supply, so order today!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10290851598</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>pgd-redloveneverfails</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10288293454</id>
+    <published>2017-04-08T20:14:00-04:00</published>
+    <updated>2017-04-08T20:14:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/wooden-puzzle-frame-for-child-pink-and-adorable-giraffes-baby-room-decor"/>
+    <title>Wooden Puzzle Wall Decor Frame for Child.  Pink and Adorable Giraffe&apos;s.  Baby Room Decor</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/wooden-puzzle-wall-decor-frame-for-child-pink-and-adorable-giraffe-s-baby-room-decor-1.jpg?v=1515394345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adorable wooden jigsaw puzzle frame features a pink background with pink giraffes.  Mount a 4x6 inch photo and hang it in your babies room.  Great wall decor that will interlock with other puzzle pieces for amazing art on your walls.  Perfect addition to your nursery.</p>
+<p> Inspirational wall art.</p>
+<ul>
+<li>Each piece measures 12 x 12 x .5 inches.</li>
+<li>Completely connectable with other puzzle pieces</li>
+<li>Made of Wood, thick and durable</li>
+<li>Made In America</li>
+</ul>
+<p>Each puzzle piece is completely connectable with other puzzle pieces.  Design your own wall full for the entire family.  Limited supply, so order today!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>holiday</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10288293454</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>pgd-giraffe</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10289471182</id>
+    <published>2017-04-08T18:19:00-04:00</published>
+    <updated>2017-04-08T18:19:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/wooden-puzzle-piece-wall-hanging"/>
+    <title>Wooden Puzzle Piece Wall Hanging - Sports Series Options Football, Basketball, Soccer, Hunting</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/wooden-puzzle-piece-wall-hanging-sports-series-options-football-basketball-soccer-hunting-4.jpg?v=1555518758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99 - 196.99
+            <a href="https://themissingpiecepuzzle.com/products/wooden-puzzle-piece-wall-hanging">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden Jigsaw Puzzle pieces for your sports fan.  These beautiful wooden puzzle pieces are Made In America and will easily interlock with other P Graham Dunn Puzzle Pieces.  Choose from the following for your sports fan: <strong>Football</strong>, <strong>Basketball,</strong> <strong>Soccer, Fishing</strong> and <strong>Hunting</strong>. The perfect gift for the sportsfan in your life.  You can add a photo as each puzzle piece will hold a 4x6 inch photo of your loved one in action. </p>
+<ul>
+<li>Each piece measures 12 x 12 x .5 inches.</li>
+<li>Made In USA</li>
+<li>Interlocks with other P Graham Dunn Wooden Puzzle Pieces</li>
+<li>Completely interchangeable with other puzzle pieces</li>
+<li>Made of Wood, thick and durable</li>
+<li>Made In America</li>
+</ul>
+<p>Each puzzle piece is completely interchangeable with other puzzle pieces.  Design your own wall full for the entire family.  Limited supply, so order today!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10289471182</id>
+      <title>Basketball</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>pgd-basketball</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10289471182</id>
+      <title>Football</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>pgd-football</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10289471182</id>
+      <title>Soccer</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>pgd-soccer</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10289471182</id>
+      <title>Fishing</title>
+      <s:price currency="USD">196.99</s:price>
+      <s:sku>pgd-fishing</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10288333838</id>
+    <published>2017-04-08T12:35:00-04:00</published>
+    <updated>2017-04-08T12:35:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/wall-art-with-wooden-jigsaw-puzzle-pieces-from-p-graham-dunn-made-in-america"/>
+    <title>Wall art with Wooden Jigsaw Puzzle Pieces - Bright Pink</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/wall-art-with-wooden-jigsaw-puzzle-pieces-variety-of-colors-2.jpg?v=1555518494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The wooden wall piece holds a 5.5 x 5.5 inch photo and interlocks with any and all wooden puzzle pieces in the collection.  Vibrant in color, this easily matches any decor.  </p>
+<fieldset class=" group-product-details field-group-fieldset form-wrapper">
+<legend><span class="fieldset-legend">PRODUCT DETAILS</span></legend>
+<div class="fieldset-wrapper">
+<div class="field field-name-field-product-display-weight field-type-text field-label-inline clearfix">
+<div class="field-label"></div>
+</div>
+<p>Wooden Jigsaw Puzzle piece that is completely connectable, so choose a few different puzzle pieces and design your wall art to suit your style. Thick wood that is half-inch thick!</p>
+<ul>
+<li>Each piece measures 12 x 12 x .5 inches</li>
+<li>Completely interchangeable with other puzzle pieces</li>
+<li>Made of Wood, thick and durable half inches wide</li>
+<li>Easy to hang as each piece has pocket mounts</li>
+<li>Made In America</li>
+</ul>
+<p>Each puzzle piece is completely interchangeable with other puzzle pieces.  Design your own wall full for the entire family.  Limited supply, so order today!</p>
+<div class="field field-name-field-pd-height field-type-text field-label-inline clearfix">
+<div class="field-items"></div>
+</div>
+</div>
+</fieldset></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10288333838</id>
+      <title>Bright Pink</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>pgd-brightpink-2</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10229442894</id>
+    <published>2017-04-01T19:19:00-04:00</published>
+    <updated>2017-04-01T19:19:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/set-of-3-puzzle-socks-mixed-colors-save-big"/>
+    <title>Set of 3 Puzzle Socks - mixed colors.  Save big!</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/set-of-3-puzzle-socks-mixed-colors-save-big-3.jpg?v=1527803645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 3 of our puzzle socks, we will mix and match the colors of our choice.  Wonderful jigsaw puzzle pattern socks that fit size 9-11.  Mid-calf socks that are made of nylon and love!  Fit wonderfully and are comfortable, fashionable and fun.  Get yours before they sell out!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10229442894</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>set3socks</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10183812430</id>
+    <published>2017-03-28T12:51:00-04:00</published>
+    <updated>2017-03-28T12:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/jigsaw-puzzle-infinity-and-love-bracelet-fits-size-s-xl-wrists"/>
+    <title>Jigsaw Puzzle, infinity and love bracelet fits size S-XL wrists</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/jigsaw-puzzle-infinity-and-love-bracelet-fits-size-s-xl-wrists-1.jpg?v=1515393650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our beautiful 5 strand bracelet features an infinity symbol, a signature puzzle piece, and the word love, surrounded by a glossy wax cord and secured with a lobster claw clasp for extra stability.  This adjustable bracelet fits wrists from size small through extra large, as there is an expansion chain attached to fit your wrist comfortably.   Available in either red or pink.</p>
+<p>A beautiful piece and a great gift for friendship and love.  Perfect bridesmaid gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10183812430</id>
+      <title>red</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>redinfin-puz-red</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10183812430</id>
+      <title>pink</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>redinfin-puz-pink</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/9974158158</id>
+    <published>2017-03-06T12:35:00-05:00</published>
+    <updated>2017-03-06T12:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/jigsaw-puzzle-socks-size-9-11-puzzle-pattern-socks-autism-awareness-puzzle-socks-puzzle-pattern-socks"/>
+    <title>Jigsaw Puzzle Socks size 9-11.  Puzzle pattern socks.  Autism Awareness</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/jigsaw-puzzle-socks-size-9-11-puzzle-pattern-socks-autism-awareness-1.jpg?v=1527801569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fun Socks! Get your jigsaw puzzle socks on and have some fun making a statement with your unique fashion.</p>
+<p>This listing is for ONE (1) pair of ladies funny socks in a jigsaw puzzle pattern that fits ladies size 9-11. Made of durable nylon, these socks are uniquely US.</p>
+<p>Fun, fashionable, and inexpensive.</p>
+<p>These socks are a novelty and should be cared for as such. We suggest turning the socks inside-out, using cold water wash, and a low heat dry for longer lasting color.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Facebook Marketplace</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974158158</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>socks-</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/9974141710</id>
+    <published>2017-03-06T12:33:00-05:00</published>
+    <updated>2017-03-06T12:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/jigsaw-puzzle-piece-silver-bracelet-autism-awareness-bracelet-twisted-rope-silver-plated-bracelet-with-puzzle-charm"/>
+    <title>Jigsaw Puzzle Piece Silver Bracelet Autism Awareness bracelet.</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/jigsaw-puzzle-piece-silver-bracelet-autism-awareness-bracelet-1.jpg?v=1515393610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99 - 12.98
+            <a href="https://themissingpiecepuzzle.com/products/jigsaw-puzzle-piece-silver-bracelet-autism-awareness-bracelet-twisted-rope-silver-plated-bracelet-with-puzzle-charm">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A beautiful silver plated rope bangle bracelet with a puzzle piece is the perfect gift for your missing piece. Made in our shop, this beauty is high quality .925 Silver plated high-quality elegant bracelet. Also referred as our Autism Awareness bracelet, this beautiful bracelet is a must have.  </p>
+<p>This bracelet is approximately 7 inches long and features a lobster claw clasp to secure your beautiful bracelet. Made of quality materials and heavy chain, this piece matches everything.</p>
+<p><em><strong>ADD MATCHING EARRINGS FOR AN ADDITIONAL $2.99 more! </strong> <strong> </strong></em>﻿Simply select from the drop down menu to add this offer while supplies last...  Won't last long at this price.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974141710</id>
+      <title>No</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>ropebracelet-puzchrm-1</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974141710</id>
+      <title>Yes</title>
+      <s:price currency="USD">12.98</s:price>
+      <s:sku>bracelet-earringset</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/9974128590</id>
+    <published>2017-03-06T12:32:00-05:00</published>
+    <updated>2017-03-06T12:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/adjustable-fit-for-xs-to-xl-wrists-infinity-bracelet-heart-bracelet-pearl-bracelet-girlfriend-best-friend-gift-friendship-bracelet"/>
+    <title>Infinity Bracelet with a beautiful heart and faux pearl.  Friendship bracelet and best friend gift.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/jewelry-infinity-bracelet-with-a-beautiful-heart-and-faux-pearl-friendship-bracelet-and-best-friend-gift-1.jpg?v=1496179434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful blue infinity friendship bracelet with faux pearl in the center of a heart.  This bracelet is designed to fit most wrists from sizes XS-XL.  A two-inch extension allows for a fit on most wrists from size 6.5 inches to 8.5 inches. Built with a lobster claw clasp for security and a comfortable wear.  Beautiful braided center for a unique and fun look. Four strands per bracelet. </p>
+<p>Ready to ship!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Facebook Marketplace</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974128590</id>
+      <title>Blue</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>inbbrfauxp-blue</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974128590</id>
+      <title>Green</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>ingbrfauxp-green</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10221013902</id>
+    <published>2017-03-06T12:30:00-05:00</published>
+    <updated>2017-03-06T12:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/copy-of-inspirational-coloring-book-puzzle-unique-paint-party-idea"/>
+    <title>Coloring Book Puzzle with Inspirational Quote. Paint Party Alternate Idea 8x10 inches</title>
+    <s:type>Custom Puzzle</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/custom-puzzle-coloring-book-puzzle-with-inspirational-quote-paint-party-alternate-idea-8x10-inches-1.jpg?v=1515393113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Custom Puzzle<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our unique Paint party idea has everyone talking.  Our coloring book puzzle is inspirational and fun.  First, assemble the puzzle and then paint, or paint then assemble.  Completely your choice.  Fun time with friends over a glass of your favorite libation, </p>
+<p>Our 8x10 inch puzzle features 30 pieces for a wonderful time. (Photo is of our larger size 16x20 inch puzzle found here ).  I choose to be happy...</p>
+<p>Choose happiness and brighten your day and throw the perfect Paint Party.  Why paint on canvas when you can color on a matte finish paper, assemble the jigsaw puzzle, then keep the keepsake!  Easily fits into a frame.</p>
+<p>Contact us for other inspirational designs!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10221013902</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>colorbkpz=8x10</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/9974109710</id>
+    <published>2017-03-06T12:30:00-05:00</published>
+    <updated>2017-03-06T12:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/giant-coloring-book-puzzle-adult-coloring-page-puzzle-inspirational-coloring-quote-paint-party-choose-to-be-happy-good-vibes-only"/>
+    <title>Inspirational Coloring Book Puzzle. Unique Paint Party Idea</title>
+    <s:type>Custom Puzzle</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/custom-puzzle-inspirational-coloring-book-puzzle-unique-paint-party-idea-2.jpg?v=1526665661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Custom Puzzle<br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adult Coloring Page Puzzle - Choose Happiness - Thick inspirational puzzle. Paint Party Puzzle.  Extra Large finished size of approximately16x20 inches.</p>
+<p>Brighten your day and choose happiness. This beautiful puzzle is a true puzzle that we print and make for you. Perfect Paint Party puzzle.... Why paint on canvas when you can color on a matte finish paper, assemble the jigsaw puzzle, then keep the keepsake!</p>
+<p>Easily color with crayons, sharpie markers or paint (you supply). Gather your girlfriends for a night of coloring and fun. Contact us for other inspirational designs!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974109710</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>colorbkpz</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/9974103630</id>
+    <published>2017-03-06T12:29:00-05:00</published>
+    <updated>2017-03-06T12:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/three-3-autism-awareness-headbands-under-10-foe-for-a-cause-jigsaw-puzzle-headbands-hair-accessory-with-puzzle-pieces"/>
+    <title>Three (3) autism awareness headbands. FOE for a cause.  Jigsaw puzzle headbands.</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/three-3-autism-awareness-headbands-foe-for-a-cause-jigsaw-puzzle-headbands-1.jpg?v=1515394107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Autism Awareness Jigsaw Puzzle Pattern colorful headband. This colorful bright headband not only holds your hair back in style but shows your awareness for autism. Each headband is handmade by me in my home with the "help" of my son who suffers from autism. He's my world...  Made with Elastic, this puzzle print is very symbolic.</p>
+<p>This listing is for three (3) headbands because 2 just aren't enough! You can order multiple packs for your family and friends for a perfect outing.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974103630</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>set3foepp</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/9725621902</id>
+    <published>2017-02-11T16:11:00-05:00</published>
+    <updated>2017-02-11T16:11:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/heart-shape-puzzle-cookie-cutter-sale"/>
+    <title>Heart Shape Puzzle Cookie Cutter on SALE</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/heart-shape-puzzle-cookie-cutter-on-sale-1.jpg?v=1523051368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute Heart Shaped Cookie Puzzle Cutters.  Adorable cookie cutters that are packaged with love.  Have fun making your favorite cookies with this fun and innovative cookie cutter.  Great for party gifts and bridesmaid gift ideas.  </p>
+<p>This puzzle piece heart shaped cookie cutter has an approximate measurement of 2 x 2.5 inches and fits together to form a heart shape.  Perfect for a Valentine Gift, sweetheart gift or time in the kitchen with the one you love.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9725621902</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>cookie cutter</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/9725399246</id>
+    <published>2017-02-11T15:30:00-05:00</published>
+    <updated>2017-02-11T15:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/jigsaw-puzzle-design-socks-sale"/>
+    <title>Jigsaw Puzzle Design Socks.  ON SALE.  Grab a few pair of puzzle socks.</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/jigsaw-puzzle-design-socks-sale-1.jpg?v=1515393600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out these beautiful Jigsaw Puzzle design socks.  Features bright puzzle pieces on a black background.  These socks fit Women's size 9-11, which is shoe size 5 to 10, and are made of comfortable Cotton, Polyester, and Spandex blend.  Wears well, made to last.  This listing is for one pair of socks, color of our choice.</p>
+<p>Makes the perfect stocking stuffer or gift for the puzzle fanatic.</p>
+<p>Check out our swag link on our homepage.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9725399246</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>puzzlesocks</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/5208679171</id>
+    <published>2016-02-09T12:31:00-05:00</published>
+    <updated>2016-02-09T12:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/silver-jigsaw-puzzle-earrings"/>
+    <title>Silver Jigsaw Puzzle Earrings SALE</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/jewelry-silver-jigsaw-puzzle-earrings-sale-1.jpg?v=1515394079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            12.99 - 19.98
+            <a href="https://themissingpiecepuzzle.com/products/silver-jigsaw-puzzle-earrings">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our own adorable jigsaw puzzle piece earrings, handmade in our shop!  Cute hook earrings that won't cost you a fortune, but will shine like they did.  A little over an inch long, these earrings look amazing with any outfit.  </p>
+<p>Check out our matching bracelet, as the set is currently on sale!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/5208679171</id>
+      <title>No</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>silver-puzzle-earrings-1</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/5208679171</id>
+      <title>Yes</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>SETsilver-braceletearrings</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+</feed>

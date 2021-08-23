@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://themissingpiecepuzzle.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://themissingpiecepuzzle.com/collections/replacement-pieces-for-white-puzzle.atom"/>
+  <title>The Missing Piece Puzzle Company</title>
+  <updated>2017-04-24T13:02:00-04:00</updated>
+  <author>
+    <name>The Missing Piece Puzzle Company</name>
+  </author>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10454166862</id>
+    <published>2017-04-24T13:02:00-04:00</published>
+    <updated>2017-04-24T13:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/missing-piece-for-white-puzzle"/>
+    <title>Missing Piece for White Puzzle.  Replacement Piece for White Jigsaw Puzzle</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/missing-piece-for-white-puzzle-replacement-piece-for-white-jigsaw-puzzle-2.jpg?v=1527201514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.25 - 4.99
+            <a href="https://themissingpiecepuzzle.com/products/missing-piece-for-white-puzzle">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Are you missing a piece for your white puzzle?  At times, a guest may not properly read the signs that you have placed near your beautiful guest book and may wander away with one.  We ALWAYS recommend that you have your puzzle numbered, especially in the case of a missing piece. </p>
+<p>We can recreate MOST white puzzle pieces <strong>within the first few months of use</strong>.  </p>
+<p>WE CANNOT GUARANTY THAT IT WILL FIT.</p>
+<p><strong>What we need to recreate a piece</strong>:</p>
+<ol>
+<li><strong>We will need a photo of the assembled puzzle from the front AND backside.</strong></li>
+<li><strong>The number of the piece</strong></li>
+<li><strong>The finished size of the puzzle</strong></li>
+<li><strong>Please purchase one item per missing piece</strong></li>
+<li><strong>Limit of 3 pieces per order</strong></li>
+</ol>
+<p>Each piece must be individually crafted, so please be patient in your request.  Again, WE CANNOT GUARANTEE 100% fit with the pieces but will do the very best that we can as experts in puzzle making!  Depending on the age and time that your puzzle was completed you may need to hand cut the piece yourself, but we can send the materials.  Please let us know if this is your option.</p>
+<p>We will provide a piece that matches your numbered backing but we can never guarantee that it will fit, as we regularly change out our dies to keep them fresh and sharp.  While we will do the best to accommodate your request, the replacement piece may not be an exact match depending on the age of your puzzle and other factors.  </p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10454166862</id>
+      <title>15 Pieces</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>missing piece-15</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10454166862</id>
+      <title>30 Pieces</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>missing piece-30</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10454166862</id>
+      <title>63 Pieces</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>missing piece-63</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10454166862</id>
+      <title>80 Pieces</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>missing piece-80</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10454166862</id>
+      <title>104 Pieces</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>missing piece-104</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10454166862</id>
+      <title>150 Pieces</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>missing piece-150</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10454166862</id>
+      <title>200 Pieces</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>missing piece200</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10454166862</id>
+      <title>Materials to Cut Your Own Piece</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>materials make your own replacement</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+</feed>

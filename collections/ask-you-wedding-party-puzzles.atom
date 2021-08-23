@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://themissingpiecepuzzle.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://themissingpiecepuzzle.com/collections/ask-you-wedding-party-puzzles.atom"/>
+  <title>The Missing Piece Puzzle Company</title>
+  <updated>2020-03-29T16:36:54-04:00</updated>
+  <author>
+    <name>The Missing Piece Puzzle Company</name>
+  </author>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+    <published>2020-03-29T16:36:54-04:00</published>
+    <updated>2020-03-29T16:36:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/gift-card"/>
+    <title>Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/e38bd83af578077b65a31424bd24d085.png?v=1624482393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            25.00 - 125.00
+            <a href="https://themissingpiecepuzzle.com/products/gift-card">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them? Give them the gift of choice with a The Missing Piece Puzzle Company gift card.</p>
+<p>Gift cards are delivered via email and contain instructions to redeem them at checkout. Our gift cards have no additional processing fees.</p>
+<p>Gift cards will expire one year from purchase date, but who can wait that long to have a custom puzzle made?  I can't think of anyone, either!</p>
+<p>Let's get your puzzle on....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$25.00 USD</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Gift Card $25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$50.00 USD</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>Gift Card $50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$75.00 USD</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>Gift Card $100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$100 USD</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Gift Card 75</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>125.00</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>Gift Card $125</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/110416494606</id>
+    <published>2017-12-20T17:07:46-05:00</published>
+    <updated>2017-12-20T17:07:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/ask-flower-girl"/>
+    <title>Will You Be My Bridesmaid Jigsaw Puzzle.  Ask Flower Girl With A Keepsake</title>
+    <s:type>Wedding</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/will_you_pink_cut_slider.jpg?v=1515394310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Wedding<br>
+        <strong>Price: </strong>
+            5.99 - 6.99
+            <a href="https://themissingpiecepuzzle.com/products/ask-flower-girl">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ask your Wedding Party to be in your wedding with a fun and unique keepsake jigsaw puzzle.  Our adorable 4x6 inch 6 piece puzzle is made in-house and can be completely personalized with a message to any of your girls.  This beautiful design is easily customizable and ships super fast!  Choose from many roles and personalize with a name or a name with your signature.  Create a memory that will last a lifetime!  Add a beautiful white frame (sold separately) so your girls can see the puzzle every day on their desk.</p>
+<p>Simply message us their name (if you choose that option from the drop down list) and your signature (if you choose that option) in the Notes section at checkout.  That's it.  </p>
+<ul>
+<li>Handmade</li>
+<li>Inexpensive</li>
+<li>FAST SERVICE</li>
+<li>Made In America</li>
+</ul>
+<p>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>true</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/110416494606</id>
+      <title>Bridesmaid / No</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>pink-will you-bm</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/110416494606</id>
+      <title>Flower Girl / No</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>pink-will you-FG</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/110416494606</id>
+      <title>Junior Bridesmaid / No</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>pink-will you-JBM</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/110416494606</id>
+      <title>Maid of Honor / No</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>pink-will you-MOH</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/110416494606</id>
+      <title>Matron of Honor / No</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>pink-will you-MTRNHR</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/110416494606</id>
+      <title>Personal Attendant / No</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>pink-will you-PA</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/110416494606</id>
+      <title>Bridesmaid / Yes</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>pink-will you-bm</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/110416494606</id>
+      <title>Flower Girl / Yes</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>pink-will you-FG</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/110416494606</id>
+      <title>Junior Bridesmaid / Yes</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>pink-will you-JBM</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/110416494606</id>
+      <title>Maid of Honor / Yes</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>pink-will you-MOH</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/110416494606</id>
+      <title>Matron of Honor / Yes</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>pink-will you-MTRNHR</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/110416494606</id>
+      <title>Personal Attendant / Yes</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>pink-will you-PA</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10271578382</id>
+    <published>2017-10-30T15:49:00-04:00</published>
+    <updated>2017-10-30T15:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/ask-ring-bearer"/>
+    <title>Ask your Ring Bearer Puzzle.  Will you be Ring Bearer Jigsaw Puzzle</title>
+    <s:type>Wedding</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/will_you_be_my_ring_bearer_puzzle_cut_with_bowtie_from_The_Missing_Piece_Puzzle_Company.jpg?v=1526663245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Wedding<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ask your guy(s) to be in <strong>your</strong> wedding. <strong>Will you be my ring bearer</strong>? This adorable 4x6 inch puzzle asks your guy to be in your wedding in a cute and inexpensive way. Share a memory and a great keepsake.  </p>
+<p>We offer a customizable option which allows for you to add <strong>the name of your ring bearer</strong> above the text.  Check out our store for more information.</p>
+<p>Have a special request? Not a problem. Simply contact us...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10271578382</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>BowtieRB</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10721584462</id>
+    <published>2017-09-15T19:20:11-04:00</published>
+    <updated>2017-09-15T19:20:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/personalized-will-you"/>
+    <title>Will you be in my Wedding with choice of Optional Frame.  Ask your attendants.</title>
+    <s:type>Wedding</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/wedding-personalized-will-you-be-my-bridesmaid-puzzle-junior-bridesmaid-maid-of-honor-4-x6-1_d9f40a56-9769-4bd1-8b22-c5e3261414e6.jpg?v=1527032995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Wedding<br>
+        <strong>Price: </strong>
+            6.99 - 11.99
+            <a href="https://themissingpiecepuzzle.com/products/personalized-will-you">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ask your girls to be in your wedding with a puzzle.  A fun and unique way to ask your wedding party</strong>.  Our 6 piece puzzle is the perfect way to ask!  Add a name and your custom text (10 character limit).</p>
+<p>Each puzzle has a finished size of approximately 4 x 6 inches and features thick puzzle pieces that are easily assembled.  Fun, exciting and <strong>memorable way to ask your ladies</strong> to be in your wedding.   Each puzzle is packaged in a clear resealable bag.  We keep the cost low, so order for your entire wedding party!   </p>
+<p>*Be sure to include your text, whether <strong>Bridesmaid, Flower Girl, Maid of Honor</strong> or special text in order to speed the progress of the item.  Generally ships in days!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>true</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10721584462</id>
+      <title>Add Frame</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4x6 blue will you-FRAME</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10721584462</id>
+      <title>No Frame</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>4x6 blue will you-2</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/161263190030</id>
+    <published>2017-03-06T12:29:00-05:00</published>
+    <updated>2017-03-06T12:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/ring-bearer-puzzle"/>
+    <title>Ask your Ring Bearer Puzzle.  Will you be Ring Bearer Jigsaw Puzzle.  Mustache Ring Bearer</title>
+    <s:type>Wedding</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/Will_you_be_my_ring_bearer_mustache_puzzle_by_The_Missing_Piece_Puzzle_Company.jpg?v=1526662521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Wedding<br>
+        <strong>Price: </strong>
+            5.99 - 7.99
+            <a href="https://themissingpiecepuzzle.com/products/ring-bearer-puzzle">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Mustache Design is a great play on words and a fun way to Ask your guy(s) to be in your wedding.<strong> We Mustache (Must Ask) you to be our....</strong>? This adorable 4x6 inch puzzle asks your guy to be in your wedding in a cute and inexpensive way. Share a memory and a <strong>great keepsake</strong>. You can customize by adding a name (10 Letters Max including spaces) to the top of the image and personalizing the puzzle by selecting the "Personalize Name" option. </p>
+<p>If you choose to add the <strong>customized print option,</strong> we print in Segoe Script or Segoe Print text at our discretion. The finished size of the puzzle will be approximately 4x6 inches and may vary slightly in size, as each is individually hand cut. The puzzle will be packaged in a clear package with a business card and the puzzle. We can easily add names in pencil on the card to help you identify which puzzle goes to whom.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4x6</s:tag>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/161263190030</id>
+      <title>No Name Added</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>Mustache</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/161263190030</id>
+      <title>Add A Name</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>Mustache-Custom</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/9974100494</id>
+    <published>2017-03-06T12:29:00-05:00</published>
+    <updated>2017-03-06T12:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/ring-bearer"/>
+    <title>Ask your Ring Bearer Puzzle - Will you be Ring Bearer Jigsaw Puzzle</title>
+    <s:type>Wedding</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/will_you_be_my_ring_bearer_puzzle_cut_by_The_Missing_Piece_Puzzle_Company_cd717029-4acf-410c-bd2f-d01aad395d3b.jpg?v=1526658972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Wedding<br>
+        <strong>Price: </strong>
+            7.99 - 15.99
+            <a href="https://themissingpiecepuzzle.com/products/ring-bearer">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- split -->
+<p>Ask your guy(s) to be in your wedding.<strong> Will you be my ring bearer puzzle</strong>? This adorable 4x6 inch puzzle asks your guy to be in your wedding in a cute and inexpensive way. Share a memory and a <strong>great keepsake</strong>. You can customize by adding a name (10 Letters Max including spaces) to the top of the image and personalizing the puzzle by selecting the "Personalize Name" option. </p>
+<p>If you choose to add the <strong>customized print option,</strong> we print in Segoe Script or Segoe Print text at our discretion. The finished size of the puzzle will be approximately 4x6 inches and may vary slightly in size, as each is individually hand cut. The puzzle will be packaged in a clear package with a business card and the puzzle. We can easily add names in pencil on the card to help you identify which puzzle goes to whom.</p>
+<p>Have a special request? Not a problem. Simply contact us...</p>
+<p>Are you looking for an adorable Bridesmaid or Flower Girl Puzzle? <a href="https://themissingpiecepuzzlecompany.com/products/bridesmaid-proposal-keepsake-puzzle-customized-bridesmaid-proposal" target="_blank" title="Ask your Flower Girl or Bridesmaid" rel="noopener noreferrer"> Follow THIS LINK to design yours today!</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4x6</s:tag>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>true</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974100494</id>
+      <title>No Name / No</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>BowtieRB</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974100494</id>
+      <title>Add Name / No</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>BowtieRB-Custom</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974100494</id>
+      <title>No Name / Yes</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>BowtieRBR</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9974100494</id>
+      <title>Add Name / Yes</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>BowtieRB-CustomR</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1295972008050</id>
+    <published>2017-02-23T13:22:00-05:00</published>
+    <updated>2017-02-23T13:22:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/bridesmaid-puzzle"/>
+    <title>Large Bridesmaid Proposal Keepsake Puzzle - Customized Bridesmaid Proposal</title>
+    <s:type>Wedding</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/Will_you_be_my_bridesmaid_puzzle_cut_30_pieces_finished_size_8x10_from_The_Missing_Piece_Puzzle_Company.jpg?v=1526925344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Wedding<br>
+        <strong>Price: </strong>
+            19.99 - 27.99
+            <a href="https://themissingpiecepuzzle.com/products/bridesmaid-puzzle">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Customized Bridesmaid, Maid Of Honor, Flower Girl Proposal keepsake.  Ask them with a jigsaw puzzle.  This large 8x10 inch puzzle is a wonderful and memorable keepsake to commemorate your Wedding.</p>
+<p>Such an exciting time to be engaged.  Now it's time to ask your wedding party to be a part of the ceremony.  Ask them with an elegant customized keepsake puzzle that is personalized with their name.</p>
+<p>The bright puzzle features 30 extra large pieces that form an 8x10 inch puzzle when complete (size is approximate as our puzzles are hand cut).  Give the gift of a keepsake that is easily framed.  </p>
+<p>Choose our standard design or customize with your own text.  It fast, inexpensive and very elegant.</p>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1295972008050</id>
+      <title>No / No</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8x10-PINK-</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1295972008050</id>
+      <title>Yes / No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8x10-PINK-WB</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1295972008050</id>
+      <title>Yes / Yes</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>8x10-PINK-WB-name</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1295972008050</id>
+      <title>No / Yes</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>8x10 TEXT-PINK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1295970697330</id>
+    <published>2017-02-23T13:22:00-05:00</published>
+    <updated>2017-02-23T13:22:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/puzzle-be-in-my-wedding"/>
+    <title>Unique Large puzzle asking your girls to be in your wedding.</title>
+    <s:type>Wedding</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/Blue_Will_You_Be_My_Maid_of_Honor_cut_unique_jigsaw_puzzle_by_The_Missing_Piece_Puzzle_Company.jpg?v=1526923492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Wedding<br>
+        <strong>Price: </strong>
+            21.99 - 25.99
+            <a href="https://themissingpiecepuzzle.com/products/puzzle-be-in-my-wedding">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unique Bridesmaid, Maid Of Honor, Flower Girl Proposal jigsaw puzzle.</p>
+<p>Congratulations!  You're engaged and planning your Wedding.  it's time to ask your friends, family and loved ones to be a part of your special day with this elegant unique puzzle. </p>
+<p>The bright puzzle features 30 extra large pieces that form an 8x10 inch puzzle when complete (size is approximate as our puzzles are hand cut).  Give the gift of a keepsake that is easily framed.  </p>
+<p>Choose our standard design or customize with your own text.  This custom puzzle is made fast, inexpensive and very elegant.  They will cherish is forever.</p>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>true</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1295970697330</id>
+      <title>No / No</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>8x10-BLUE-</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1295970697330</id>
+      <title>Yes / No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8x10-BLUE-WB</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1295970697330</id>
+      <title>Yes / Yes</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>8x10C-BLUE-WB-name</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1295970697330</id>
+      <title>No / Yes</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>8x10 TEXT-BLUE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10221192846</id>
+    <published>2017-02-23T13:22:00-05:00</published>
+    <updated>2017-02-23T13:22:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/heart-bridesmaid-proposal"/>
+    <title>Heart Design Will You Be In My Wedding Puzzle.  Ask your Bridesmaid, Flower Girl (4x6 inches)</title>
+    <s:type>Wedding</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/wedding-heart-design-will-you-be-in-my-wedding-puzzle-ask-your-bridesmaid-flower-girl-4x6-inches-1.jpg?v=1526667381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Wedding<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>What a unique way to </span><span>ask your Wedding Party</span><span> to stand up for you on your big day! Our 4x6 inch puzzle is the perfect way to ask, well any question in a very unique and memorable manner. This size puzzle is PERFECT for framing after assembly, so you create a beautiful memory for your Bridesmaids, Flower Girls, Ring Bearer, etc. and frame it for a lifetime.</span></p>
+<p><span>Please be sure to write us a note to let us know if you would like our Bridesmaid, Flower Girl or Ring Bearer Heart puzzle.  This listing is for 1 puzzle of your choice.</span></p>
+<p><span>  </span><strong>Ready to ship!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>true</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10221192846</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>4x6hrtwillyou</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/9862292238</id>
+    <published>2017-02-23T13:22:00-05:00</published>
+    <updated>2017-02-23T13:22:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/be-in-my-wedding"/>
+    <title>Large 8x10 inch puzzle asking your girls to be in your wedding.</title>
+    <s:type>Wedding</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/wedding-large-8x10-inch-puzzle-asking-your-girls-to-be-in-your-wedding-personalize-your-own-design-8x10-1.jpg?v=1515393679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Wedding<br>
+        <strong>Price: </strong>
+            19.99 - 24.99
+            <a href="https://themissingpiecepuzzle.com/products/be-in-my-wedding">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>If you are looking for a very unique way to ask your wedding party to be in your wedding, ask with a jigsaw puzzle.  Our puzzle is the perfect way to ask and is very memorable and fun.  This size puzzle is PERFECT for framing after assembly at approximately 8x10 inches and makes for a beautiful memory for your Bridesmaids to frame for a lifetime. </span></p>
+<p><span>This puzzle features 30 nice-sized pieces that will have an assembly size of 8x10 inches. We will leave the lid off of the puzzle so that we do not ruin the surprise and will place the names on the bottom of the box.</span></p>
+<div></div>
+<div><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9862292238</id>
+      <title>No</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8x10C-BM8x10</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9862292238</id>
+      <title>Yes</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8x10-BM-TEXT</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1233242947</id>
+    <published>2017-02-23T13:22:00-05:00</published>
+    <updated>2017-02-23T13:22:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/will-you-be-in-my-wedding-puzzle"/>
+    <title>Will You Be In My Wedding Puzzle.  Ask your Bridesmaid, Flower Girl (8x10)</title>
+    <s:type>Wedding</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/wedding-will-you-be-in-my-wedding-puzzle-ask-your-bridesmaid-flower-girl-8x10-1.jpg?v=1527032884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Wedding<br>
+        <strong>Price: </strong>
+            19.99 - 34.99
+            <a href="https://themissingpiecepuzzle.com/products/will-you-be-in-my-wedding-puzzle">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>What a unique way to </span><span>ask your Wedding Party</span><span> to stand up for you on your big day! Our 8x10 puzzle is the perfect way to ask, well any question in a very unique and memorable manner. This size puzzle is PERFECT for framing after assembly, so you create a beautiful memory for your Bridesmaids and frame it for a lifetime. </span></p>
+<p><span>This puzzle features 30 nice sized pieces that will have an assembly size of 8x10 inches. We will leave the lid off of the puzzle so that we do not ruin the surprise and will place the names on the bottom of the box.</span></p>
+<div></div>
+<div><strong>Ready to ship!</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>true</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233242947</id>
+      <title>No / No</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8x10-bm</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233242947</id>
+      <title>Yes / No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8x10-bm-wb</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233242947</id>
+      <title>Yes / Yes</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>8x10-wb-addname</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233242947</id>
+      <title>No / Yes</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>8x10bm-add name</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/9862362126</id>
+    <published>2016-02-29T20:41:00-05:00</published>
+    <updated>2016-02-29T20:41:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/ask-wedding-party-puzzle"/>
+    <title>Personalized Will you be in my Wedding.  Ask your  Junior Bridesmaid?  Maid of Honor?</title>
+    <s:type>Wedding</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/wedding-personalized-will-you-be-my-bridesmaid-puzzle-junior-bridesmaid-maid-of-honor-4-x6-3.jpg?v=1526668521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Wedding<br>
+        <strong>Price: </strong>
+            6.99 - 11.99
+            <a href="https://themissingpiecepuzzle.com/products/ask-wedding-party-puzzle">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ask your girls to be in your wedding with a jigsaw puzzle.  A fun and unique way to ask your wedding party.  Our 6 piece puzzle is the perfect way to ask!  Add a name and your custom text (10 character limit).</strong></p>
+<p>Each puzzle has a finished size of approximately 4 x 6 inches and features thick puzzle pieces that are easily assembled.  Fun, exciting and <strong>memorable way to ask your ladies</strong> to be in your wedding.   Each puzzle is packaged in a clear resealable bag.  We keep the cost low, so order for your entire wedding party!  Order our optional white frame to complete the package!  Simply choose "Yes" from the drop down menu to add the frame.</p>
+<p><strong>ADD A FRAME:</strong>  Add a wooden frame to your order that will be the perfect ending to this wonderful keepsake.  Frame is wooden with a glass cover and will fit our puzzle perfectly.  </p>
+<p>*Be sure to include your text, whether <strong>Bridesmaid, Flower Girl, Maid of Honor</strong> or special text in order to speed the progress of the item.  Generally ships in days!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>true</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9862362126</id>
+      <title>No / No</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>4x6xwillyouxtext- Bluepastel-1</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9862362126</id>
+      <title>Yes / No</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>4x6 blue- addframe</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9862362126</id>
+      <title>No / Yes</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/9862362126</id>
+      <title>Yes / Yes</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1297139269746</id>
+    <published>2015-06-25T17:02:00-04:00</published>
+    <updated>2015-06-25T17:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/custom-post-card-size-puzzle"/>
+    <title>Custom Post Card Size Puzzles. Design your own puzzle with 6 pieces.</title>
+    <s:type>Custom Puzzle</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/logo_cut_into_a_4x6_puzzle_The_Missing_Piece_Puzzle_Company_fc6815b7-5577-49a3-80a7-baa5ea24b25f.jpg?v=1559681570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Custom Puzzle<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Do you need to stand out as a business?</strong> Your design on this wonderful <strong>Post Card Size Puzzle</strong> is a great promotional puzzle and quite affordable.<strong> </strong> Add your logo, business information, new upcoming sales and give it to your clients and prospective clients.</p>
+<p><strong>Unique hand out at a networking event!</strong></p>
+<p>Fits nicely on your desk and looks amazing framed.  This thick and durable puzzle measures approximately 4 x 6 inches and features six oversized pieces. Own a personalized puzzle for a very <strong>low affordable price</strong>!  </p>
+<meta charset="utf-8">
+<p>This puzzle is packaged in a clear sealed sleeve.  ASK ABOUT OUR BULK PRICING for large orders.  We offer deep discounts on bulk orders.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4x6</s:tag>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>true</s:tag>
+    <s:tag>upload photo 4x6</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1297139269746</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>4x6 single custom</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+</feed>

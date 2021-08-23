@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://themissingpiecepuzzle.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://themissingpiecepuzzle.com/collections/8-x10-in-puzzles.atom"/>
+  <title>The Missing Piece Puzzle Company</title>
+  <updated>2021-03-06T21:00:00-05:00</updated>
+  <author>
+    <name>The Missing Piece Puzzle Company</name>
+  </author>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1233241283</id>
+    <published>2021-03-06T21:00:00-05:00</published>
+    <updated>2021-03-06T21:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/inexpensive-personalized-gift-jigsaw-puzzle"/>
+    <title>Inexpensive personalized gift jigsaw puzzle 8x10 inches with 30 pieces.  Cheap gift made well!</title>
+    <s:type>Custom Puzzle</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/personalized_custom_jigsaw_puzzle_of_kittens_in_grass_8x10_inches_with_60_pieces_cut.jpg?v=1541630377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Custom Puzzle<br>
+        <strong>Price: </strong>
+            19.99 - 24.99
+            <a href="https://themissingpiecepuzzle.com/products/inexpensive-personalized-gift-jigsaw-puzzle">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span>Stock up on personalized gift ideas with your favorite photos.  Our  8x10 puzzle has 30 very large pieces that show great detail.  Great puzzle for young children or to show great detail in the photo, our 30 piece puzzle is fun to do. </span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span>This new puzzle shows detail, is elegant, and very competitively priced.  Perfect to keep the kids busy while you're cooking dinner, and makes a great advertising puzzle! </span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span>This puzzle has unlimited uses and fits very nicely into a frame. </span></div>
+<div><span></span></div>
+<div><span> A great Dad Gift, Grandparent Gift, or that hard to gift for person in your life.   This is a great value puzzle that will arrive at your doorstep in a box with the picture on the lid.</span></div>
+<div><span> </span></div>
+<div>This puzzle can be made into a 30 piece puzzle or a 60 piece puzzle.  If you would like to order this puzzle with 60 pieces, please <a title="60 Piece Puzzle" href="https://themissingpiecepuzzle.com/products/cheap-custom-puzzle-gift-with-60-pieces-8-x-10-inch-puzzle" target="_blank">CLICK HERE</a>.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>upload photo 8x10</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233241283</id>
+      <title>No</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8x10x60</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233241283</id>
+      <title>Yes</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8x10x60-R</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+    <published>2020-03-29T16:36:54-04:00</published>
+    <updated>2020-03-29T16:36:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/gift-card"/>
+    <title>Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/e38bd83af578077b65a31424bd24d085.png?v=1624482393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            25.00 - 125.00
+            <a href="https://themissingpiecepuzzle.com/products/gift-card">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them? Give them the gift of choice with a The Missing Piece Puzzle Company gift card.</p>
+<p>Gift cards are delivered via email and contain instructions to redeem them at checkout. Our gift cards have no additional processing fees.</p>
+<p>Gift cards will expire one year from purchase date, but who can wait that long to have a custom puzzle made?  I can't think of anyone, either!</p>
+<p>Let's get your puzzle on....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$25.00 USD</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Gift Card $25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$50.00 USD</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>Gift Card $50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$75.00 USD</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>Gift Card $100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$100 USD</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Gift Card 75</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>125.00</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>Gift Card $125</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1233243779</id>
+    <published>2017-11-30T19:59:00-05:00</published>
+    <updated>2017-11-30T19:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/affordable-8x10-puzzle-60-pieces"/>
+    <title>Our very affordable Custom Jigsaw Puzzle - 8 x10 inch puzzle</title>
+    <s:type>Custom Puzzle</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/60_beach_jump_cut_95a11b38-c0fd-418f-8181-77b7ec628dab.jpg?v=1620671868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Custom Puzzle<br>
+        <strong>Price: </strong>
+            24.99 - 29.99
+            <a href="https://themissingpiecepuzzle.com/products/affordable-8x10-puzzle-60-pieces">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our very affordable 8x10 inch <strong>Custom Jigsaw Puzzle</strong> is the perfect cheap gift for every occasion, as it's personalized with your photo! This beautiful custom puzzle is easily framed and is a very popular size that fits wonderfully in a frame. <br><br>The <strong>PERFECT custom gift idea</strong> for every occasion, our high-quality 8x10 inch puzzle makes a great personalized Birthday, Anniversary, and any special occasion gift to let that special someone know that you're thinking of them.  It's a wonderful birthday gift for Mom or Mother's Day - or any day!<br><br>This puzzle will arrive boxed with your photo laminated on the lid right on your doorstep. Choose either 30 or 60 pieces puzzle pieces.  Design your personalized puzzle and have it at your doorstep within days.<br><strong></strong></p>
+<p><strong>Need to order for a corporate event?  Contact us for volume discounts.</strong><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>upload photo 8x10</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233243779</id>
+      <title>30 Pieces / No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8x10xC-30</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233243779</id>
+      <title>60 Pieces / No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8x10xC-60</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233243779</id>
+      <title>30 Pieces / Yes</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>8x10x30-Rush</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233243779</id>
+      <title>60 Pieces / Yes</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>8x10x60-Rush</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/5220047107</id>
+    <published>2016-02-09T21:11:00-05:00</published>
+    <updated>2016-02-09T21:11:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/prom-proposal-that-is-unique-and-fun-ask-her-or-him-to-the-prom-with-a-puzzle"/>
+    <title>Prom Proposal - PROMPOSAL Ask her or him to the Prom with a puzzle. Unique, Fun, and Affordable.</title>
+    <s:type>Custom Puzzle</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/custom-puzzle-prom-proposal-that-is-unique-and-fun-ask-her-or-him-to-the-prom-with-a-promposal-puzzle-1.jpg?v=1553967836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Custom Puzzle<br>
+        <strong>Price: </strong>
+            19.99 - 29.99
+            <a href="https://themissingpiecepuzzle.com/products/prom-proposal-that-is-unique-and-fun-ask-her-or-him-to-the-prom-with-a-puzzle">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Promposal fun.  A fun and a unique Promposal!  Ask her or him to the Prom with our in-house designed prom jigsaw puzzle.  Featuring 30 pieces, this puzzle will measure approximately 8x10 inches when assembled and will fit into a standard size frame for years of memories.  We leave the lid off of the box for the element of surprise.</p>
+<p>READY TO SHIP and under $20.  </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/5220047107</id>
+      <title>No / No</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8x10x30-PROMpink-1</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/5220047107</id>
+      <title>Yes / No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8x10x30-PROMpink-WB</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/5220047107</id>
+      <title>No / Yes</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>Prom-RUSH</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/5220047107</id>
+      <title>Yes / Yes</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PROM- WB- RUSH</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/10332035470</id>
+    <published>2015-06-25T17:02:00-04:00</published>
+    <updated>2015-06-25T17:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/cheap-custom-puzzle-gift-with-60-pieces-8-x-10-inch-puzzle"/>
+    <title>Cheap Custom Puzzle Gift with 60 Pieces!</title>
+    <s:type>Custom Puzzle</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/60_beach_jump_cut.jpg?v=1624484541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Custom Puzzle<br>
+        <strong>Price: </strong>
+            24.99 - 29.99
+            <a href="https://themissingpiecepuzzle.com/products/cheap-custom-puzzle-gift-with-60-pieces-8-x-10-inch-puzzle">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stock up on gift ideas with your favorite photos. Our newest 8 x 10-inch puzzle has <strong>60 easy to hold puzzle pieces </strong>that show great detail. <strong>Great puzzle for teens, Mom and Dad, and teachers.</strong></p>
+<p>This very popular puzzle shows detail, is elegant and very competitively priced. Perfect to keep the kids busy while you're cooking dinner, and makes a great advertising puzzle!  <strong>Unlimited uses...  </strong></p>
+<p>Very popular and <strong>easy size to frame</strong>. Great value puzzle. Will come in a box with the picture on the lid. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>upload photo 8x10</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10332035470</id>
+      <title>No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8x10x60C-</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/10332035470</id>
+      <title>Yes</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>8x10x60C-R</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1233241731</id>
+    <published>2015-06-25T17:02:00-04:00</published>
+    <updated>2015-06-25T17:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/cheap-custom-puzzle-gift"/>
+    <title>Cheap Custom Puzzle Gift!  Great Puzzle For Children In Either 30 or 60 Pieces.</title>
+    <s:type>Custom Puzzle</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/60_nicholle_cut.jpg?v=1620671495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Custom Puzzle<br>
+        <strong>Price: </strong>
+            24.99 - 29.99
+            <a href="https://themissingpiecepuzzle.com/products/cheap-custom-puzzle-gift">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Choose your piece count with this adorable custom puzzle from a photo.  This completely personalized puzzle makes a great gift and will be their favorite for years to come.   This very popular puzzle shows detail, is elegant, and very competitively priced.</p>
+<p>Our 8 x 10-inch puzzle has <strong>30 very large pieces or 60 pieces </strong>that show great detail. <strong>Great puzzle for young children and toddlers </strong>or to show detail in the photo.  This custom puzzle has many uses and can even keep the kids busy while you're cooking dinner! <strong>Unlimited gifting opportunities...  </strong>Choose from either 30 or 60 pieces.</p>
+<p>This custom puzzle is very popular and is very easy to frame. This puzzle makes an awesome way to spring a surprise vacation through a puzzle.  Great value puzzle.</p>
+<p>Your custom puzzle will arrive at your doorstep in days, as we are Made In America.  We package in a box with your photo on the lid.</p>
+<p>Choose a different piece count from our menu...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>upload photo 8x10</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233241731</id>
+      <title>30 Pieces / No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8x10x30</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233241731</id>
+      <title>30 Pieces / Yes</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>8x10x30C-RUSH</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233241731</id>
+      <title>60 Pieces / No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8x10x60</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233241731</id>
+      <title>60 Pieces / Yes</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>8x10x60C-RUSH</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

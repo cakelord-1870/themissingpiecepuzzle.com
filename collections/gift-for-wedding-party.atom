@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://themissingpiecepuzzle.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://themissingpiecepuzzle.com/collections/gift-for-wedding-party.atom"/>
+  <title>The Missing Piece Puzzle Company</title>
+  <updated>2020-03-29T16:36:54-04:00</updated>
+  <author>
+    <name>The Missing Piece Puzzle Company</name>
+  </author>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+    <published>2020-03-29T16:36:54-04:00</published>
+    <updated>2020-03-29T16:36:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/gift-card"/>
+    <title>Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/e38bd83af578077b65a31424bd24d085.png?v=1624482393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            25.00 - 125.00
+            <a href="https://themissingpiecepuzzle.com/products/gift-card">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them? Give them the gift of choice with a The Missing Piece Puzzle Company gift card.</p>
+<p>Gift cards are delivered via email and contain instructions to redeem them at checkout. Our gift cards have no additional processing fees.</p>
+<p>Gift cards will expire one year from purchase date, but who can wait that long to have a custom puzzle made?  I can't think of anyone, either!</p>
+<p>Let's get your puzzle on....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$25.00 USD</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Gift Card $25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$50.00 USD</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>Gift Card $50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$75.00 USD</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>Gift Card $100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$100 USD</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Gift Card 75</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>125.00</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>Gift Card $125</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1985535508566</id>
+    <published>2019-03-07T11:10:23-05:00</published>
+    <updated>2019-03-07T11:10:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/wedding-tote-bag-the-i-do-crew"/>
+    <title>Wedding Tote Bag - The &quot;I DO&quot; Crew.</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-92dbc0ae.jpg?v=1551975408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This cotton canvas tote bag is both stylish and practical. Gift your "I DO" Crew with this stylish bag that can be personalized. This bag is lightweight and large, allowing your crew to hold many shades of lipstick for you at the Bachelorette Party. This is stylish with a budget.<br> <br> • Dimensions: 14 ½” x 15 ½”
+<div class="pf-customisable-product" style="display: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1985535508566</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8204183</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1985521811542</id>
+    <published>2019-03-07T11:03:22-05:00</published>
+    <updated>2019-03-07T11:03:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/wedding-tote-bag-bride-canvas"/>
+    <title>Wedding Tote Bag - BRIDE.  Canvas</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-084c6de3.jpg?v=1551974601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This cotton canvas tote bag is both stylish and practical.<br>
+<br>
+• 6 oz, 100% cotton canvas<br>
+• 22” dual handles<br>
+• Dimensions: 14 ½” x 15 ½” </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding Totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1985521811542</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>3856264</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984843513942</id>
+    <published>2019-03-06T16:49:33-05:00</published>
+    <updated>2019-03-06T16:49:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/wedding-bag-for-bride"/>
+    <title>Wedding Drawstring Bag - Bride</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-b9a0719a.jpg?v=1551962613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Celebrate the Bride with this beautiful sporty style cool drawstring bag. It's a must-have for the Bachelorette Party that can be worn as a backpack with drawstring closure at top, and narrow, contrasting shoulder straps.  Super-affordable, get one for the entire bridal party.  Holds up to 35 pounds of essentials.<br> <br>• Bag size 15”x17”<br>• Maximum weight limit – 33lbs (15kg)<br>• Twin cotton handles<br>• Drawstring closure<br>• 100% spun polyester fabric</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wedding totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984843513942</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>9323406</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984843251798</id>
+    <published>2019-03-06T16:47:41-05:00</published>
+    <updated>2019-03-06T16:47:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/drawstring-bag-ring-bearer"/>
+    <title>Wedding Drawstring Bag - Ring Bearer</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-1635b5f4.jpg?v=1551964089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ask your Ring Bearer to be in your wedding with this  sporty style drawstring bag. It's an adorable way to ask your Ring Bearer with an adorable gift. This bag can be worn as a backpack with drawstring closure at top, and narrow, contrasting shoulder straps. A lasting memory for an important part of your Wedding, don't forget His/Her important role of carrying the bling.<br> <br>• Bag size 15”x17”<br>• Maximum weight limit – 33lbs (15kg)<br>• Twin cotton handles<br>• Drawstring closure<br>• 100% spun polyester fabric</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wedding totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984843251798</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>6216443</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984842858582</id>
+    <published>2019-03-06T16:46:05-05:00</published>
+    <updated>2019-03-06T16:46:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/drawstring-bag-bride-tribe"/>
+    <title>Wedding Drawstring Bag - Bride Tribe</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-99e018e9.jpg?v=1551962891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Combine your love for the Wedding Party and a sporty style with a cool drawstring bag. It's a must-have essential that can be worn as a backpack with drawstring closure at top, and narrow, contrasting shoulder straps.  Holds an incredible 33 pounds of Bridal Party essentials.<br> <br> • Bag size 15”x17”<br> • Maximum weight limit – 33lbs (15kg)<br> • Twin cotton handles<br> • Drawstring closure<br> • 100% spun polyester fabric</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wedding totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984842858582</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>4022510</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984842072150</id>
+    <published>2019-03-06T16:43:39-05:00</published>
+    <updated>2019-03-06T16:43:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/drawstring-bag-petal-patrol"/>
+    <title>Weddig Party Drawstring bag - Petal Patrol Design</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-a7fb2fca.jpg?v=1551963697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Your Petal Patrol will love this beautiful vibrant drawstring bag. It's a must-have essential that can be worn as a backpack with drawstring closure at top, and narrow, contrasting shoulder straps. Ask your Flower Girls to be in your Wedding.  Fill it with love and memories as this holds up to 33 pounds of Wedding memories.<br> <br>• Bag size 15”x17”<br>• Maximum weight limit – 33lbs (15kg)<br>• Twin cotton handles<br>• Drawstring closure<br>• 100% spun polyester fabric</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wedding totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984842072150</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>6786962</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984841449558</id>
+    <published>2019-03-06T16:40:50-05:00</published>
+    <updated>2019-03-06T16:40:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/drawstring-bag-flower-girl"/>
+    <title>Wedding Party Drawstring bag for the Flower Girl - Flower Girl</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-be6974f3.jpg?v=1551963224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gift your Flower Girl a cool drawstring bag that she can use as a bookbag.  This vibrant drawstring bag features Flower Girl written on the front so that everyone knows how important she is in your Wedding.  This bag will easily hold all essentials and will be the <strong>perfect Flower Girl present</strong>. <br> <br>• Bag size 15”x17”<br>• Maximum weight limit – 33lbs (15kg)<br>• Twin cotton handles<br>• Drawstring closure<br>• 100% spun polyester fabric</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wedding totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984841449558</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>5270656</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984841089110</id>
+    <published>2019-03-06T16:39:04-05:00</published>
+    <updated>2019-03-06T16:39:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/drawstring-bag-the-i-do-crew"/>
+    <title>Wedding Party Drawstring bag - The &quot;I Do&quot; Crew</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-92f6c447.jpg?v=1551964320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This adorable bag is the perfect way to include your I Do Crew in your Wedding.  Fill it with small trinkets to ask your crew, or fill it with essentials for the Bachelorette Party.  Imagine walking in with these bags that feature each of the Wedding Parties roles.  A must have bag for every Wedding Party I Do Crew.  Fun, fashionable, and very affordable. <br> <br>• Bag size 15”x17”<br>• Maximum weight limit – 33lbs (15kg)<br>• Twin cotton handles<br>• Drawstring closure<br>• 100% spun polyester fabric</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wedding totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984841089110</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>9580659</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984833945686</id>
+    <published>2019-03-06T16:18:35-05:00</published>
+    <updated>2019-03-06T16:18:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/tote-bag-brides-besties"/>
+    <title>White Wedding Tote bag - Brides Besties</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-cdd36c1a.jpg?v=1551965255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Every bride has her Besties and now you can gift them with this trendy and beautiful tote bag.  This well-made white tote is large and will help your Bridal Party carry around everything that matters while looking sexy and sleek.  Super cute and very affordable, it doesn't get much better than this bag to show your ladies how much they mean to you.  Also available for other Wedding Party Roles, check out our Wedding Accessories to purchase these for everyone that's a piece of your Wedding Puzzle.<br> <br>• 100% spun polyester fabric<br>• Bag 15" x 15" (38.1cm x 38.1cm)<br>• Capacity – 2.6 US gal (10l)<br>• Maximum weight limit – 44lbs (20kg)<br>• Dual handles 100% natural cotton bull denim<br>• Handle length 11.8" (30 cm), width 1" (2.5cm)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wedding totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984833945686</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8853869</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984833945686</id>
+      <title>Yellow</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2843374</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984833945686</id>
+      <title>Red</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>5982756</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984832536662</id>
+    <published>2019-03-06T16:14:45-05:00</published>
+    <updated>2019-03-06T16:14:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/tote-bag-bride"/>
+    <title>Wedding Party Tote bag - Bride.  Bridal bag that holds essentials.</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-6108f9e8.jpg?v=1551964585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">How cute is this?  This spacious and trendy tote bag to help you carry around everything that matters for your Wedding Day needs.  Features the word BRIDE in a fun and fashionable font and is classy, yet affordable.  Fill this with Bachelorette party essentials and party the night away with your I Do Crew.  Available for your entire wedding party, check out our Wedding Accessory Shop thats filled with fun and high-fashion.  A must have.<br> <br>• 100% spun polyester fabric<br>• Bag 15" x 15" (38.1cm x 38.1cm)<br>• Capacity – 2.6 US gal (10l)<br>• Maximum weight limit – 44lbs (20kg)<br>• Dual handles 100% natural cotton bull denim<br>• Handle length 11.8" (30 cm), width 1" (2.5cm)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wedding totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984832536662</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>5092780</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984832536662</id>
+      <title>Yellow</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2454909</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984832536662</id>
+      <title>Red</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>4287911</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984831881302</id>
+    <published>2019-03-06T16:13:31-05:00</published>
+    <updated>2019-03-06T16:13:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/tote-bag-mother-of-the-bride"/>
+    <title>Tote bag - Mother of the Bride</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-aef845fc.jpg?v=1551906806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A spacious and trendy tote bag to help you carry around everything that matters.<br>
+<br>
+• 100% spun polyester fabric<br>
+• Bag 15" x 15" (38.1cm x 38.1cm)<br>
+• Capacity – 2.6 US gal (10l)<br>
+• Maximum weight limit – 44lbs (20kg)<br>
+• Dual handles 100% natural cotton bull denim<br>
+• Handle length 11.8" (30 cm), width 1" (2.5cm)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wedding totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984831881302</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>4485494</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984831881302</id>
+      <title>Yellow</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2735160</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984831881302</id>
+      <title>Red</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>7671227</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984830963798</id>
+    <published>2019-03-06T16:11:58-05:00</published>
+    <updated>2019-03-06T16:11:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/tote-bag-1"/>
+    <title>Wedding Tote bag - Matron of Honor</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-a9c8b43b.jpg?v=1551906713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A spacious and trendy tote bag to help you carry around everything that matters.<br> <br> • 100% spun polyester fabric<br> • Bag 15" x 15" (38.1cm x 38.1cm)<br> • Capacity – 2.6 US gal (10l)<br> • Maximum weight limit – 44lbs (20kg)<br> • Dual handles 100% natural cotton bull denim<br> • Handle length 11.8" (30 cm), width 1" (2.5cm)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wedding totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984830963798</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8827674</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984830963798</id>
+      <title>Yellow</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>5843324</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984830963798</id>
+      <title>Red</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2549613</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984828833878</id>
+    <published>2019-03-06T16:10:25-05:00</published>
+    <updated>2019-03-06T16:10:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/tote-bag-maid-of-honor"/>
+    <title>Tote bag - Maid of Honor</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-af218295.jpg?v=1551906619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A spacious and trendy tote bag to help you carry around everything that matters.<br>
+<br>
+• 100% spun polyester fabric<br>
+• Bag 15" x 15" (38.1cm x 38.1cm)<br>
+• Capacity – 2.6 US gal (10l)<br>
+• Maximum weight limit – 44lbs (20kg)<br>
+• Dual handles 100% natural cotton bull denim<br>
+• Handle length 11.8" (30 cm), width 1" (2.5cm)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wedding totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984828833878</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>4446284</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984828833878</id>
+      <title>Yellow</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>4707972</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984828833878</id>
+      <title>Red</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>4016928</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984752025686</id>
+    <published>2019-03-06T15:40:05-05:00</published>
+    <updated>2019-03-06T15:40:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/tote-bag-i-said-yes"/>
+    <title>Tote bag - I Said Yes!</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-d107faed.jpg?v=1551904800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A spacious and trendy tote bag to help you carry around everything that matters.<br>
+<br>
+• 100% spun polyester fabric<br>
+• Bag 15" x 15" (38.1cm x 38.1cm)<br>
+• Capacity – 2.6 US gal (10l)<br>
+• Maximum weight limit – 44lbs (20kg)<br>
+• Dual handles 100% natural cotton bull denim<br>
+• Handle length 11.8" (30 cm), width 1" (2.5cm)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding Accessories</s:tag>
+    <s:tag>wedding totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984752025686</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8817071</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984752025686</id>
+      <title>Yellow</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1960785</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984752025686</id>
+      <title>Red</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>4410246</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984750846038</id>
+    <published>2019-03-06T15:37:18-05:00</published>
+    <updated>2019-03-06T15:37:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/tote-bag-family-of-the-bride"/>
+    <title>Wedding Tote bag - Family of the Bride</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-42d0575e.jpg?v=1551985981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We all have that one Aunt, God Mother or other Family member who has helped us our entire life.  Our adorable tote bag honors your family with text that says "Family of the Bride".  A great gift to those who are in your family and have shown you Wedding Support.  Very affordable and a great gift.  Our tote is spacious and trendy and helps you carry around everything that matters for the Wedding.  <strong>The perfect gift for your family</strong>.<br> <br>• 100% spun polyester fabric<br>• Bag 15" x 15" (38.1cm x 38.1cm)<br>• Capacity – 2.6 US gal (10l)<br>• Maximum weight limit – 44lbs (20kg)<br>• Dual handles 100% natural cotton bull denim<br>• Handle length 11.8" (30 cm), width 1" (2.5cm)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding Accessories</s:tag>
+    <s:tag>wedding totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984750846038</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1398071</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984750846038</id>
+      <title>Yellow</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6298869</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984750846038</id>
+      <title>Red</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>7962498</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984748617814</id>
+    <published>2019-03-06T15:33:20-05:00</published>
+    <updated>2019-03-06T15:33:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/tote-bag-friends-of-the-bride"/>
+    <title>White Wedding Party Tote bag - Bride Tribe</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-d8346413.jpg?v=1551964922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Every BRIDE needs a Bride Tribe.  This beautiful white tote is the perfect Bride Tribe essential for your Wedding Day events.  Gift each Tribe Member with this super-affordable tote that is spacious, trendy, and absolutely adorable.  Well made and sturdy, this tote bag helps you carry around everything that matters for your Big Day.  Available in many roles, check out our Wedding Apparel section for other roles..<br> <br>• 100% spun polyester fabric<br>• Bag 15" x 15" (38.1cm x 38.1cm)<br>• Capacity – 2.6 US gal (10l)<br>• Maximum weight limit – 44lbs (20kg)<br>• Dual handles 100% natural cotton bull denim<br>• Handle length 11.8" (30 cm), width 1" (2.5cm)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wedding totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984748617814</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8414129</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984748617814</id>
+      <title>Yellow</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>9520962</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984748617814</id>
+      <title>Red</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>5825240</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984746750038</id>
+    <published>2019-03-06T15:30:40-05:00</published>
+    <updated>2019-03-06T15:30:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/tote-bag-friend-of-the-bride"/>
+    <title>Tote bag - Friend of the Bride</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-10d5fab8.jpg?v=1551904235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A spacious and trendy tote bag to help you carry around everything that matters.<br>
+<br>
+• 100% spun polyester fabric<br>
+• Bag 15" x 15" (38.1cm x 38.1cm)<br>
+• Capacity – 2.6 US gal (10l)<br>
+• Maximum weight limit – 44lbs (20kg)<br>
+• Dual handles 100% natural cotton bull denim<br>
+• Handle length 11.8" (30 cm), width 1" (2.5cm)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding Accessories</s:tag>
+    <s:tag>Wedding Totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984746750038</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>5264513</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984746750038</id>
+      <title>Yellow</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2848713</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984746750038</id>
+      <title>Red</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>3777763</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984716275798</id>
+    <published>2019-03-06T14:44:23-05:00</published>
+    <updated>2019-03-06T14:44:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/tote-bag-future-mrs"/>
+    <title>Tote bag - Future Mrs.</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-aff44443.jpg?v=1551901458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A spacious and trendy tote bag to help you carry around everything that matters.<br>
+<br>
+• 100% spun polyester fabric<br>
+• Bag 15" x 15" (38.1cm x 38.1cm)<br>
+• Capacity – 2.6 US gal (10l)<br>
+• Maximum weight limit – 44lbs (20kg)<br>
+• Dual handles 100% natural cotton bull denim<br>
+• Handle length 11.8" (30 cm), width 1" (2.5cm)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding Totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984716275798</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8598824</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984716275798</id>
+      <title>Yellow</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>4231494</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984716275798</id>
+      <title>Red</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>4333923</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984699760726</id>
+    <published>2019-03-06T13:51:48-05:00</published>
+    <updated>2019-03-06T13:51:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/tote-bag-mother-of-the-groom"/>
+    <title>Tote bag- Mother of the Groom</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-0ca03d84.jpg?v=1551898303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A spacious and trendy tote bag to help you carry around everything that matters.<br>
+<br>
+• 100% spun polyester fabric<br>
+• Bag 15" x 15" (38.1cm x 38.1cm)<br>
+• Capacity – 2.6 US gal (10l)<br>
+• Maximum weight limit – 44lbs (20kg)<br>
+• Dual handles 100% natural cotton bull denim<br>
+• Handle length 11.8" (30 cm), width 1" (2.5cm)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding Totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984699760726</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1048199</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984699760726</id>
+      <title>Yellow</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2712214</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984699760726</id>
+      <title>Red</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>7169624</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984698712150</id>
+    <published>2019-03-06T13:47:29-05:00</published>
+    <updated>2019-03-06T13:47:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/tote-bag-cheers-to-the-future-mr-and-mrs"/>
+    <title>Tote bag - Cheers to the Future Mr. and Mrs.</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-cda0e769.jpg?v=1551981551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cheers to the Future Mr. and Mrs!  This beautiful lightweight tote bag will easily carry around Cheers, and lipstick too!   Well built and ready for action, this trendy and fashionable bag goes with any outfit and holds an incredible 44 pounds of Wedding items!  A great <strong>bridal gift</strong> that will make them smile for years to come.<br> <br>• 100% spun polyester fabric<br>• Bag 15" x 15" (38.1cm x 38.1cm)<br>• Capacity – 2.6 US gal (10l)<br>• Maximum weight limit – 44lbs (20kg)<br>• Dual handles 100% natural cotton bull denim<br>• Handle length 11.8" (30 cm), width 1" (2.5cm)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding Totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984698712150</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8440532</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984698712150</id>
+      <title>Yellow</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>5268736</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984698712150</id>
+      <title>Red</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>5030574</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984697794646</id>
+    <published>2019-03-06T13:45:02-05:00</published>
+    <updated>2019-03-06T13:45:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/tote-bag-the-i-do-crew"/>
+    <title>Tote bag - The &quot;I Do&quot; Crew</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-326c4d73.jpg?v=1551897897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A spacious and trendy tote bag to help you carry around everything that matters.<br>
+<br>
+• 100% spun polyester fabric<br>
+• Bag 15" x 15" (38.1cm x 38.1cm)<br>
+• Capacity – 2.6 US gal (10l)<br>
+• Maximum weight limit – 44lbs (20kg)<br>
+• Dual handles 100% natural cotton bull denim<br>
+• Handle length 11.8" (30 cm), width 1" (2.5cm)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding Totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984697794646</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2857194</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984697794646</id>
+      <title>Yellow</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>5159508</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984697794646</id>
+      <title>Red</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2446369</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984688816214</id>
+    <published>2019-03-06T13:38:44-05:00</published>
+    <updated>2019-03-06T13:38:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/tote-bag-flower-girl"/>
+    <title>Wedding Tote bag - Flower Girl</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-f24c737c.jpg?v=1551897519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our adorable Flower Girl Tote is just what she's always wanted.  Choose from 3 different handle colors for your Pedal Patrol.  A spacious and trendy tote bag to help you carry around everything that matters.  An adorable Flower Girl Gift that she'll cherish.<br> <br>• 100% spun polyester fabric<br>• Bag 15" x 15" (38.1cm x 38.1cm)<br>• Capacity – 2.6 US gal (10l)<br>• Maximum weight limit – 44lbs (20kg)<br>• Dual handles 100% natural cotton bull denim<br>• Handle length 11.8" (30 cm), width 1" (2.5cm)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding Totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984688816214</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6209334</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984688816214</id>
+      <title>Yellow</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>7048714</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984688816214</id>
+      <title>Red</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>9559014</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984682852438</id>
+    <published>2019-03-06T13:34:43-05:00</published>
+    <updated>2019-03-06T13:34:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/tote-bag-bestie-of-the-bride"/>
+    <title>Tote bag- Bestie of the Bride</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-5e39aaae.jpg?v=1551897278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A spacious and trendy tote bag to help you carry around everything that matters.<br>
+<br>
+• 100% spun polyester fabric<br>
+• Bag 15" x 15" (38.1cm x 38.1cm)<br>
+• Capacity – 2.6 US gal (10l)<br>
+• Maximum weight limit – 44lbs (20kg)<br>
+• Dual handles 100% natural cotton bull denim<br>
+• Handle length 11.8" (30 cm), width 1" (2.5cm)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding Totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984682852438</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>9819620</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984682852438</id>
+      <title>Yellow</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>9604301</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984682852438</id>
+      <title>Red</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>7491414</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1984653426774</id>
+    <published>2019-03-06T13:17:41-05:00</published>
+    <updated>2019-03-06T13:17:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/tote-bag-junior-bridesmaid"/>
+    <title>Tote bag - Junior Bridesmaid</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/mockup-7b31eafb.jpg?v=1551896256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A spacious and trendy tote bag to help you carry around everything that matters.<br>
+<br>
+• 100% spun polyester fabric<br>
+• Bag 15" x 15" (38.1cm x 38.1cm)<br>
+• Capacity – 2.6 US gal (10l)<br>
+• Maximum weight limit – 44lbs (20kg)<br>
+• Dual handles 100% natural cotton bull denim<br>
+• Handle length 11.8" (30 cm), width 1" (2.5cm)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Junior Bridesmaid</s:tag>
+    <s:tag>Wedding Totes</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984653426774</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>3485137</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984653426774</id>
+      <title>Yellow</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2987419</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1984653426774</id>
+      <title>Red</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>7151663</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

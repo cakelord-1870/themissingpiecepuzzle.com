@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://themissingpiecepuzzle.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://themissingpiecepuzzle.com/collections/shaped-puzzles.atom"/>
+  <title>The Missing Piece Puzzle Company</title>
+  <updated>2021-02-15T10:22:19-05:00</updated>
+  <author>
+    <name>The Missing Piece Puzzle Company</name>
+  </author>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1233242179</id>
+    <published>2021-02-15T10:22:19-05:00</published>
+    <updated>2021-02-15T10:22:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/engagement-and-anniversary-puzzle-we-met-here-map-heart-shape"/>
+    <title>Engagement or Anniversary Puzzle - Heart Shape</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/valentinespersonalizedheartpuzzlefromTheMissingPiecePuzzleCo..jpg?v=1613401565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99 - 29.99
+            <a href="https://themissingpiecepuzzle.com/products/engagement-and-anniversary-puzzle-we-met-here-map-heart-shape">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Every special moment in time with a jigsaw puzzle.</strong></p>
+<p>Gather your most cherished photo memory and turn it into a high-quality photo.  If you are newly engaged or celebrating an anniversary, this is the perfect gift.  Piece every moment of your relationship together on a date night and celebrate!</p>
+<p>This personalized custom made puzzle makes an incredible <strong>Anniversary gift idea</strong> and a very romantic <strong>Engagement idea</strong>.</p>
+<p>This beautiful Heart Shaped Puzzle will measure approximately 12 x 10 inches when it is complete and has 88 irregularly shaped pieces, making this a challenge. A wonderful Valentine's present, Engagement puzzle, or special way to show your love!</p>
+<p>*There may be slight variations in the photo on the lid and the puzzle, as we hand-cut the image for the box.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heart</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233242179</id>
+      <title>No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>heartmap-</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233242179</id>
+      <title>Yes</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>heartmap-R</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1233243203</id>
+    <published>2021-01-06T12:09:23-05:00</published>
+    <updated>2021-01-06T12:09:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/heart-shaped-custom-puzzle-piece"/>
+    <title>Heart Shaped Custom Puzzle for Date Night fun.</title>
+    <s:type>Custom Puzzle</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/heart_jigsaw_puzzle_of_lovers_for_valentines_day_cut_pieces.JPG?v=1620671692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Custom Puzzle<br>
+        <strong>Price: </strong>
+            29.99 - 34.99
+            <a href="https://themissingpiecepuzzle.com/products/heart-shaped-custom-puzzle-piece">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our beautiful custom Heart-Shaped Puzzle <span>with 80 irregularly shaped pieces,  and is so romantic.  This high-quality Heart Shaped Puzzle is so romantic and</span><span> will bring smiles and fun times.  </span></p>
+<p><span></span><span>Show your love how much they mean to you with this heart-shaped puzzle.   Great for<a href="http://www.themissingpiecepuzzlecompany.com/product.asp?itemid=9"><span> marriage proposals</span></a>! <span> Makes a wonderful puzzle for that special couple. <a href="http://www.themissingpiecepuzzlecompany.com/product.asp?itemid=47">The Heart Shape</a> is so sweet and sentimental and makes for great date night fun!  This custom puzzle from your photo is an excellent Anniversary Present, <strong>Valentine's Day</strong> present, or Marriage Proposal.  </span></span></p>
+<p>* Please be sure that your photo can be made into a heart shape.  It is recommended that the subjects in the photo are not covering the entire photo.  (We don't want to cut out anyone's head or feet!)  Landscape images work best.  *</p>
+<p>There might be slight variations in the photo on the lid vs. the photo on the puzzle as we hand-cut the lid.  <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heart</s:tag>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233243203</id>
+      <title>No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>10.5x12heart</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233243203</id>
+      <title>Yes</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>10.5x12heart-R</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+    <published>2020-03-29T16:36:54-04:00</published>
+    <updated>2020-03-29T16:36:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/gift-card"/>
+    <title>Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/e38bd83af578077b65a31424bd24d085.png?v=1624482393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            25.00 - 125.00
+            <a href="https://themissingpiecepuzzle.com/products/gift-card">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them? Give them the gift of choice with a The Missing Piece Puzzle Company gift card.</p>
+<p>Gift cards are delivered via email and contain instructions to redeem them at checkout. Our gift cards have no additional processing fees.</p>
+<p>Gift cards will expire one year from purchase date, but who can wait that long to have a custom puzzle made?  I can't think of anyone, either!</p>
+<p>Let's get your puzzle on....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$25.00 USD</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Gift Card $25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$50.00 USD</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>Gift Card $50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$75.00 USD</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>Gift Card $100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>$100 USD</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Gift Card 75</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/4609975746646</id>
+      <title>125.00</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>Gift Card $125</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/130222948366</id>
+    <published>2018-01-04T11:40:34-05:00</published>
+    <updated>2018-01-04T11:40:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/wedding-cake-puzzle"/>
+    <title>Wedding Cake Guest Book Puzzle - Guest Book Puzzle Cake</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/cake_jigsaw_puzzle_cut_and_next_to_business_card_to_show_size_of_extra_large_puzzle.jpg?v=1560191696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            74.99 - 84.99
+            <a href="https://themissingpiecepuzzle.com/products/wedding-cake-puzzle">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our unique <strong>Wedding Cake Shaped Guest Book Puzzle</strong> is exclusively our design.  Featuring Large size puzzle pieces with heart-shaped whimsies, this beautifully cut and easily assembled puzzle offers optional hand-numbering. </p>
+<p><strong>Size: </strong> The approximate finished size of this cake puzzle is 30 x 19 inches, which is very large.  Features 14 whimsy (special pieces, such as heart and bridal couple) and a total of 103 signable pieces.  We have added the template to the photos for ease of assembly.</p>
+<p><strong>Numbering:  </strong>We offer optional hand numbering in our shop.  We number on the back of each piece for ease of assembly.  We strongly recommend that you choose this option as this puzzle is very large and a bit challenging to assemble without expert puzzle skills and a bit of time!</p>
+<p><strong>Suggestions: </strong> Your guests can sign this puzzle with either a ballpoint pen with a medium tip or with a Sharpie marker.  We recommend that you use only medium to thick-tipped writing instruments as puzzles to avoid puncturing the white layer on the puzzle.  Colorful sharpies look amazing on a finished puzzle.  Check out our blog for more suggestions.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>true</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/130222948366</id>
+      <title>No / No</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>cake-no</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/130222948366</id>
+      <title>Yes / No</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>cake-yes</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/130222948366</id>
+      <title>No / Yes</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>cake-noR</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/130222948366</id>
+      <title>Yes / Yes</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>cake-yesR</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1233244291</id>
+    <published>2017-10-30T15:48:54-04:00</published>
+    <updated>2017-10-30T15:48:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/cowboy-cowgirl-boot-guest-book-puzzle-country-style-wedding-puzzle"/>
+    <title>Cowboy Cowgirl Boot Guest Book Puzzle. Country Style Wedding Puzzle</title>
+    <s:type>Guest Book</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/guest-book-cowboy-cowgirl-boot-guest-book-puzzle-country-style-wedding-puzzle-1.jpg?v=1526925626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Guest Book<br>
+        <strong>Price: </strong>
+            79.99 - 89.99
+            <a href="https://themissingpiecepuzzle.com/products/cowboy-cowgirl-boot-guest-book-puzzle-country-style-wedding-puzzle">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>One of a kind <strong>Cowboy / Cowgirl Boot Jigsaw Puzzle</strong> for your <strong>Western Style Wedding</strong>. Our super <strong>Texas Sized</strong> puzzle features 66 extra Texas Sized Pieces for your guests to leave a wonderful message and well wishes.</p>
+<p>Each piece supports a few sentences, some more! Covered in either a white or tan colored coating, this boot is exclusively our design. <strong>You won't see it elsewhere!</strong></p>
+<p>The finished size of the puzzle is a whopping 30 x 26 inches (approximately). Also features a <strong>Giant Heart shaped</strong> piece for those special someone's to leave their loving messages....</p>
+<p>Our <strong>White Boot</strong> can be written on with either a medium ball point pen or medium tipped Sharpie markers (sold separately).</p>
+<p>Our <strong>Tan Boot</strong> is vinyl, and can be written on with a medium ball point pen.</p>
+<p>Not recommended for Sharpie type writing instruments, as they might smear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233244291</id>
+      <title>No / No</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>boot-tan</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233244291</id>
+      <title>Yes / No</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>boot-tan-N</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233244291</id>
+      <title>No / Yes</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>boot-tan-R</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233244291</id>
+      <title>Yes / Yes</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>boot-tan-NR</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1233244227</id>
+    <published>2015-06-25T17:02:00-04:00</published>
+    <updated>2015-06-25T17:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/wedding-dress-puzzle"/>
+    <title>Wedding Dress Puzzle for Unique Alternative Guest Book Idea</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/dress-puzzles-sfw.jpg?v=1564600331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.99 - 89.99
+            <a href="https://themissingpiecepuzzle.com/products/wedding-dress-puzzle">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Exclusively ours! Our unique Elegant Wedding Dress Gown Puzzle is simply stunning. Featuring 65 extra large puzzle pieces that easily support a brief message and signature, this puzzle is truly a one of a kind as we are the only company with this design. Measuring approximately 30x22 inches complete, this Wedding Puzzle is very large and elegant! Made of very durable thick puzzle pieces in a bright white, have your guests sign in either Sharpies or with a regular medium ball point pen (not included). Perfect for Baby Showers, Bridal Shower and elegant events.  Be the talk of the town...</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:tag>true</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233244227</id>
+      <title>No / No</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>dress-65</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233244227</id>
+      <title>Yes / No</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>dress-N</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233244227</id>
+      <title>No / Yes</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>dress-65R</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233244227</id>
+      <title>Yes / Yes</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>dress-NR</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1233244163</id>
+    <published>2015-06-25T17:02:00-04:00</published>
+    <updated>2015-06-25T17:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/butterfly-shaped-puzzle"/>
+    <title>Butterfly Shaped Puzzle</title>
+    <s:type>Butterfly Shaped Puzzle</s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/butterfly-shaped-puzzle-butterfly-shaped-puzzle-for-wedding-guest-books-1.jpg?v=1515393044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong>Butterfly Shaped Puzzle<br>
+        <strong>Price: </strong>
+            79.99 - 89.99
+            <a href="https://themissingpiecepuzzle.com/products/butterfly-shaped-puzzle">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our <strong>Extra Large Butterfly puzzle</strong> is an all-white puzzle and is unique. Measuring approximately 30 x 25.5 inches when assembled, this XL white puzzle features several specialty pieces for those <strong>extra special messages from family</strong>.  Great unique Guest Book for Sweet 16 Party and Autism Awareness events.</p>
+<p>Over<strong> 100 extra-large pieces</strong> form this puzzle (108 pieces). Each piece of the puzzle easily supports a brief message and signature and looks incredible when completed.</p>
+<p><strong>Very unique and beautiful, affordable and a must-have.</strong> </p>
+<p>OPTIONS:</p>
+<p>We offer the option to HAND-NUMBER the pieces on the back of the puzzle.  This option significantly cuts down assembly time and is recommended for this puzzle, as the pieces are similarly shaped and sized, but are not exact.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233244163</id>
+      <title>No / No</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>Butterfly</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233244163</id>
+      <title>Yes / No</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>Butterfly-N</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233244163</id>
+      <title>No / Yes</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>Butterfly-RUSH</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233244163</id>
+      <title>Yes / Yes</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>Butterfly-N-RUSH</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themissingpiecepuzzle.com/products/1233242819</id>
+    <published>2015-06-25T17:02:00-04:00</published>
+    <updated>2015-06-25T17:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://themissingpiecepuzzle.com/products/heart-shaped-white-puzzle"/>
+    <title>Giant Heart Shaped Guest Book Puzzle with White Puzzle Pieces</title>
+    <s:type></s:type>
+    <s:vendor>The Missing Piece Puzzle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0890/8106/products/giant-heart-shaped-guest-book-puzzle-with-white-puzzle-pieces-1.jpg?v=1526664368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Missing Piece Puzzle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.99 - 79.99
+            <a href="https://themissingpiecepuzzle.com/products/heart-shaped-white-puzzle">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<strong>Our Very Large Heart Shaped White Puzzle</strong> that makes a <strong>Unique Wedding Guest Book</strong> alternative is elegant and fashionable. Our Extra Large Piece White Blank Heart Shaped Puzzle is very romantic and makes a great conversation starter for your guests and encourages fun!  Available in two piece counts, choose from either 76 extra-large pieces or 108 large pieces.</div>
+<div> </div>
+<div>This puzzle is very generously sized, as are the pieces in the puzzle, having a finished size of approximately 30 x 24 inches.  Be the talk of the town with this unique white puzzle guestbook.   </div>
+<div></div>
+<div> </div>
+<div></div>
+<div>We now offer hand numbering on the back of the puzzle!  We strongly suggest that you choose this option for ease of assembly as this puzzle requires expert puzzle skills to assemble.</div>
+<div></div>
+<div>To see the template or for tips and tricks on assembly, check out our <a href="https://themissingpiecepuzzle.com/blogs/lets-talk-about-puzzles/91004099-template-for-our-76-and-108-piece-heart-puzzle-with-hints-and-tips-for-assembly" target="_blank" title="Heart Shaped Puzzle Tips For Assembly" rel="noopener noreferrer">blog post</a> to save some time.</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-size-chart-photo-requirements</s:tag>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233242819</id>
+      <title>76 Pieces / No / No</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>Heart-76</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233242819</id>
+      <title>76 Pieces / Yes / No</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>Heart-76N</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233242819</id>
+      <title>108 Pieces / No / No</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>Heart-108</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233242819</id>
+      <title>108 Pieces / Yes / No</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>Heart-108N</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233242819</id>
+      <title>76 Pieces / No / Yes</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>Heart-76R</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233242819</id>
+      <title>76 Pieces / Yes / Yes</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>Heart-76NR</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233242819</id>
+      <title>108 Pieces / No / Yes</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>Heart-108R</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themissingpiecepuzzle.com/products/1233242819</id>
+      <title>108 Pieces / Yes / Yes</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>Heart-108NR</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>
